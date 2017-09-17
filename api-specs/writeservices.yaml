@@ -1,0 +1,250 @@
+swagger: '2.0'
+info:
+  description: >-
+    **Disclaimer** <br/> Copyright © 2012-2016 PowerReviews. All rights reserved. <br/>
+
+    The information in this document:
+
+    * Is confidential and intended for PowerReviews clients. No part of this
+    document may be shared with anyone outside your company or your
+    company-partners without prior approval from PowerReviews.
+
+    * Is provided “as is” without warranty of any kind either expressed or
+    implied, including, but not limited to the implied warranties of
+    merchantability, fitness for a particular purpose, or non-infringement.
+
+    * Is periodically updated to be in sync with the improvements and/or changes
+    in our product offers.
+
+    * May be changed without notice. Some examples depicted herein are provided
+    for illustration only and are not guarantees of a specific result. You bear
+    the risk of using this document. <br/><br/> PowerReviews is not liable for
+    any technical or typographical errors that might be inadvertently present in
+    this document. <br/><br/> PowerReviews might have patents and/or pending
+    patent applications covering subject matter in this document. The furnishing
+    of this document does not give you any license to these patents, or legal
+    rights to any other intellectual property in any PowerReviews service or
+    product. <br/><br/> All PowerReviews brand and product names are trademarks
+    or registered trademarks of PowerReviews in the United States and may be
+    protected as trademarks or registered trademarks in other countries. All
+    other product, service, or company names mentioned here are claimed as
+    trademarks and trade names by their respective companies. 
+  version: Draft
+  title: Write Services B2B Integrations
+  termsOfService: 'http://www.powerreviews.com/terms-of-use/'
+  contact:
+    email: support@powerreviews.com
+host: writeservices.powerreviews.com
+basePath: /api/b2b/writereview
+tags:
+  - name: SubmitReview
+    description: >-
+      Write-a-Review endpoints are intended to provide external integration endpoints to PowerReviews Write-a-Review for server to server implementations by external customers.
+schemes:
+  - https
+  - http
+paths:
+  /submit_review:
+    post:
+      tags:
+        - SubmitReview
+      summary: Submits a user’s review data for a product.
+      description: Submitting a review
+      operationId: SubmitReview
+      produces:
+        - application/json
+      parameters:
+        - $ref: '#/parameters/PageID'
+        - $ref: '#/parameters/PageIDVariant'
+        - $ref: '#/parameters/Flag'
+        - $ref: '#/parameters/MerchantGroupID'
+        - $ref: '#/parameters/SiteID'
+        - $ref: '#/parameters/MerchantID'
+        - $ref: '#/parameters/ApiKey'
+        - $ref: '#/parameters/Locale'
+        - name: Request Body
+          in: body
+          required: true
+          schema:
+            $ref: '#/definitions/Request Object'
+      responses:
+        '400':
+          description: >-
+            Could not read request: Invalid JSON body or otherwise unreadable
+            request body.
+parameters:
+  ProfanityCheck:
+    description: Allows profanity checks to be skipped on content submission.
+    type: boolean
+    name: skipProfanityCheck
+    in: query
+  MerchantGroupID:
+    name: merchant_group_id
+    in: query
+    type: integer
+    format: int64
+    description: PowerReviews assigned Merchant Group identifier.
+    required: true
+  SiteID:
+    name: site_id
+    type: string
+    in: query
+    description: >-
+      Client’s internal site identifier - required if merchant_group_id is
+      provided.
+    required: true
+  MerchantID:
+    name: merchant_id
+    type: integer
+    in: query
+    format: int64
+    description: >-
+      PowerReviews unique identifier for a merchant - can be used in lieu of
+      merchant_group_id / site_id identifier.
+  ApiKey:
+    name: apikey
+    type: string
+    in: query
+    description: >-
+      Token used to secure client requests. <br> Please refer to advanced
+      security options for further details.
+    required: true
+  Locale:
+    in: query
+    name: locale
+    type: string
+    description: >-
+      Locale used for the api call.  If not provided, will default to the
+      merchant’s communication locale.
+  PageID:
+    name: page_id
+    type: string
+    in: query
+    description: It represents the concept that is being reviewed.
+    required: true
+  PageIDVariant:
+    name: page_id_variant
+    type: string
+    in: query
+    description: >-
+      It represents the variation within the Page ID such as different colors,
+      different sizes or other variations.
+  Flag:
+    name: f
+    in: query
+    type: string
+    description: >-
+      Feature flag parameter, allowing for overrides of default functionality or
+      that provided by merchant properties.
+  MerchantUserID:
+    name: merchant_user_id
+    description: >-
+      Client internal identifier for a user. Allows lookup of that user's saved
+      user profile data within the PowerReviews platform.
+    in: query
+    type: string
+  MerchantUserEmail:
+    name: merchant_user_email
+    type: string
+    in: query
+    description: Known email address for a client user.
+  UniqueReviewID:
+    name: unique_review_id
+    type: string
+    in: query
+    description: >-
+      Merchant provided identifier to identify duplicate submissions for a
+      review.
+definitions:
+  ProfanityCheck:
+    $ref: '#/parameters/ProfanityCheck'
+  Common Fields:
+    type: object
+    discriminator: field_type
+    properties:
+      field_type:
+        type: string
+        enum:
+          - simple
+          - collection
+          - composite
+        example: simple
+      key:
+        type: string
+      id:
+        type: string
+    required:
+      - field_type
+      - key
+  SimpleField:
+    title: Simple Field
+    description: A simple field.
+    allOf:
+      - $ref: '#/definitions/Common Fields'
+      - title: Simple Field
+      - type: object
+        properties:
+          value:
+            type: object
+            description: DFDFDDF
+  CollectionField:
+    description: The collection field.
+    allOf:
+      - $ref: '#/definitions/Common Fields'
+      - title: Collection Field
+      - type: object
+        properties:
+          values:
+            type: array
+        required:
+          - values
+  CompositeField:
+    description: The composite field.
+    allOf:
+      - $ref: '#/definitions/Common Fields'
+      - title: Composite Field
+      - type: object
+        properties:
+          composite_type:
+            type: string
+            example: Image
+          composite_data:
+            type: string
+            example: >-
+              "external_image":
+              "https://upload.wikimedia.org/wikipedia/en/9/9d/Orange-sun-small.jpg"
+          fields:
+            $ref: '#/definitions/SimpleField'
+  Request Object:
+    type: object
+    properties:
+      fields:
+        type: array
+        items:
+          type: object
+          $ref: '#/definitions/Common Fields'
+      started_timestamp:
+        type: string
+        format: date-time
+        example: '2015-10-27T00:59:00.048Z'
+      submitted_timestamp:
+        type: string
+        format: date-time
+      reviewer_type:
+        type: string
+      ip_address:
+        type: string
+      iovation_blackbox:
+        type: string
+      browser:
+        type: string
+      promo_code:
+        type: string
+      campaign_id:
+        type: string
+      order_id:
+        type: string
+      source:
+        type: string
+      disclosure_code:
+        type: string
