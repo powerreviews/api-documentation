@@ -1,6 +1,6 @@
 # api-documentation
 
-Provides customer-facing API docuemntation via swagger.
+Provides customer-facing API documentation via swagger.
 
 ## Directory Structure
 
