@@ -4,7 +4,7 @@ info:
     API and services that support the consumption of consumer-facing resources
     such as product reviews, snippets, questions, and answers.
   version: 1.0.0
-  title: B2C Read Services
+  title: Read Services
   termsOfService: 'http://www.powerreviews.com/terms-of-use/'
 host: readservices-b2c.powerreviews.com
 basePath: /
