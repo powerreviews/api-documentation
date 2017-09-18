@@ -7,10 +7,11 @@ pushd staging
 cp ../swagger-ui/* .
 cp ../api-specs/* .
 
-sed -i 's/..\/api-specs/http:\/\/developers.powerreviews.com/g' index.html
+sed -i 's/..\/api-specs/\/\/developers.powerreviews.com/g' index.html
 
-DATE=`date +%Y%m%d%H%M%S`
+aws s3 sync . s3://developers.powerreviews.com --storage-class REDUCED_REDUNDANCY --acl public-read --delete
 
-aws s3 sync . s3://developers.powerreviews.com/staging_${DATE}/ --storage-class REDUCED_REDUNDANCY --acl public-read
+# CLI cloudfront features are in preview - for now, TTL on cloudfront is set to 600 seconds.
+# aws cloudfront create-invaldiation --distribution-id E2VEPY1WRUNO4
 
 popd
