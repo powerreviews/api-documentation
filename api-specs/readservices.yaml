@@ -79,11 +79,13 @@ paths:
           required: false
           type: integer
           format: int32
+          description: The number of questions you want to return.
         - name: paging.from
           in: query
           required: false
           type: integer
           format: int32
+          description: The start page where you want to start returning Questions from. If you want reviews from page one, omit this parameter. 
         - name: sort
           in: query
           required: false
@@ -92,22 +94,27 @@ paths:
             - Oldest
             - Newest
             - MostAnswers
+          description: The order in which you want to return your Questions. Acceptable fields include: Oldest, Newest, or MostAnswers.
         - name: apikey
           in: query
           required: false
           type: string
+          description: The API Key PowerReviews provides you.
         - name: merchantId
           in: path
           required: true
           type: string
+          description: Your unique merchant ID.
         - name: locale
           in: path
           required: true
           type: string
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example fr_FR. 
         - name: pageId
           in: path
           required: true
           type: string
+          description: The unique page id for the product you want to view the questions for.
       responses:
         '200':
           description: OK
@@ -135,11 +142,13 @@ paths:
           required: false
           type: integer
           format: int32
+          description: The number of Product Reviews you want to return.
         - name: paging.from
           in: query
           required: false
           type: integer
           format: int32
+          description: The start page where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
         - name: sort
           in: query
           required: false
@@ -150,22 +159,27 @@ paths:
             - MostHelpful
             - Oldest
             - Newest
+          description: The order in which you want to return your Product Reviews. Acceptable fields include LowestRating, HighestRating, MostHelpful, Oldest, Newest.
         - name: apikey
           in: query
           required: true
           type: string
+          description: The API Key PowerReviews provides you.
         - name: merchantId
           in: path
           required: true
           type: string
+          description: Your unique merchant ID.
         - name: locale
           in: path
           required: true
           type: string
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example fr_FR. 
         - name: pageId
           in: path
           required: true
           type: string
+          description: The unique page id for the product you want to view the questions for.
       responses:
         '200':
           description: OK
@@ -193,23 +207,28 @@ paths:
           required: false
           type: integer
           format: int32
+          description: The number of answers you want to return.
         - name: paging.from
           in: query
           required: false
           type: integer
           format: int32
+          description: The start page where you want to start returning Answers from. If you want reviews from page one, omit this parameter. 
         - name: apikey
           in: query
-          required: false
+          required: true
           type: string
+          description: The API Key PowerReviews provides you.
         - name: merchantId
           in: path
           required: true
           type: string
+          description: Your unique merchant ID.
         - name: locale
           in: path
           required: true
           type: string
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example fr_FR. 
         - name: questionId
           in: path
           required: true
@@ -242,15 +261,18 @@ paths:
           required: true
           type: integer
           format: int64
+          description: Your unique merchant ID.
         - name: locale
           in: path
           description: locale
           required: true
           type: string
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example fr_FR. 
         - name: apikey
           in: query
-          required: false
+          required: true
           type: string
+          description: The API Key PowerReviews provides you.
       responses:
         '200':
           description: OK
