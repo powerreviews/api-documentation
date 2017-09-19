@@ -29,40 +29,6 @@ paths:
       produces:
         - application/json
       parameters:
-        - name: paging.size
-          in: query
-          required: false
-          type: integer
-          format: int32
-        - name: paging.from
-          in: query
-          required: false
-          type: integer
-          format: int32
-        - name: bypassCache
-          in: query
-          required: false
-          type: boolean
-        - name: cacheKey
-          in: query
-          required: false
-          type: string
-        - name: search
-          in: query
-          required: false
-          type: string
-        - name: sort
-          in: query
-          required: false
-          type: string
-          enum:
-            - HighestRating
-            - LowestRating
-            - MostHelpful
-            - LeastHelpful
-            - Oldest
-            - Newest
-            - MostAnswers
         - name: apikey
           in: query
           required: true
@@ -78,10 +44,6 @@ paths:
         - name: pageIds
           in: path
           required: true
-          type: string
-        - name: _nocache
-          in: query
-          required: false
           type: string
       responses:
         '200':
@@ -115,27 +77,11 @@ paths:
           required: false
           type: integer
           format: int32
-        - name: bypassCache
-          in: query
-          required: false
-          type: boolean
-        - name: cacheKey
-          in: query
-          required: false
-          type: string
-        - name: search
-          in: query
-          required: false
-          type: string
         - name: sort
           in: query
           required: false
           type: string
           enum:
-            - HighestRating
-            - LowestRating
-            - MostHelpful
-            - LeastHelpful
             - Oldest
             - Newest
             - MostAnswers
@@ -154,10 +100,6 @@ paths:
         - name: pageId
           in: path
           required: true
-          type: string
-        - name: _nocache
-          in: query
-          required: false
           type: string
       responses:
         '200':
@@ -191,25 +133,6 @@ paths:
           required: false
           type: integer
           format: int32
-        - name: filters
-          in: query
-          required: false
-          type: array
-          items:
-            type: string
-          collectionFormat: multi
-        - name: bypassCache
-          in: query
-          required: false
-          type: boolean
-        - name: cacheKey
-          in: query
-          required: false
-          type: string
-        - name: search
-          in: query
-          required: false
-          type: string
         - name: sort
           in: query
           required: false
@@ -218,10 +141,8 @@ paths:
             - HighestRating
             - LowestRating
             - MostHelpful
-            - LeastHelpful
             - Oldest
             - Newest
-            - MostAnswers
         - name: apikey
           in: query
           required: true
@@ -237,10 +158,6 @@ paths:
         - name: pageId
           in: path
           required: true
-          type: string
-        - name: _nocache
-          in: query
-          required: false
           type: string
       responses:
         '200':
@@ -274,30 +191,6 @@ paths:
           required: false
           type: integer
           format: int32
-        - name: bypassCache
-          in: query
-          required: false
-          type: boolean
-        - name: cacheKey
-          in: query
-          required: false
-          type: string
-        - name: search
-          in: query
-          required: false
-          type: string
-        - name: sort
-          in: query
-          required: false
-          type: string
-          enum:
-            - HighestRating
-            - LowestRating
-            - MostHelpful
-            - LeastHelpful
-            - Oldest
-            - Newest
-            - MostAnswers
         - name: apikey
           in: query
           required: false
@@ -313,10 +206,6 @@ paths:
         - name: questionId
           in: path
           required: true
-          type: string
-        - name: _nocache
-          in: query
-          required: false
           type: string
       responses:
         '200':
