@@ -233,6 +233,7 @@ paths:
           in: path
           required: true
           type: string
+          description: The unique question id for the question you want to view the answers for.
       responses:
         '200':
           description: OK
