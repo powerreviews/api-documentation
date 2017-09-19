@@ -1,8 +1,11 @@
 swagger: '2.0'
 info:
   description: >-
-    API and services that support the consumption of consumer-facing resources
-    such as product reviews, snippets, questions, and answers.
+    You can use the Read API to return reviews, questions, and answers left on 
+    your products by your customers. This is helpful especially if you're using 
+    customizations on your website, have a mobile app where you want review content 
+    to appear, or if you want to integrate and feed review data into third-party 
+    software. You can retrieve this information by making GET calls to the Read API.
   version: 1.0.0
   title: Read Services
   termsOfService: 'http://www.powerreviews.com/terms-of-use/'
@@ -33,18 +36,22 @@ paths:
           in: query
           required: true
           type: string
+          description: The API Key PowerReviews provides you.
         - name: merchantId
           in: path
           required: true
           type: string
+          description: Your unique merchant ID.
         - name: locale
           in: path
           required: true
           type: string
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example: fr_FR. 
         - name: pageIds
           in: path
           required: true
           type: string
+          description: The unique page id for the product you want to view the snippets for.
       responses:
         '200':
           description: OK
