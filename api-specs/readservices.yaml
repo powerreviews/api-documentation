@@ -46,7 +46,7 @@ paths:
           in: path
           required: true
           type: string
-          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example: fr_FR. 
+          description: The locale of the review data you want to return. This parameter is a two number code for the language and country. For example fr_FR. 
         - name: pageIds
           in: path
           required: true
