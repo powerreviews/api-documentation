@@ -79,6 +79,8 @@ paths:
           required: false
           type: integer
           format: int32
+          minimum: 1
+          maximum: 25
           description: The number of questions you want to return.
         - name: paging.from
           in: query
