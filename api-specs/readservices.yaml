@@ -162,6 +162,14 @@ paths:
             - Oldest
             - Newest
           description: The order in which you want to return your Product Reviews. Acceptable fields include LowestRating, HighestRating, MostHelpful, Oldest, Newest.
+       - name: image_only
+          in: query
+          required: false
+          type: boolean
+          enum:
+            - true
+            - false
+          description: If true only return reviews with images
         - name: apikey
           in: query
           required: true
