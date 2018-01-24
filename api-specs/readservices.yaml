@@ -201,6 +201,104 @@ paths:
           description: Forbidden
         '404':
           description: Not Found
+  '/m/{merchantId}/reviews':
+    get:
+      tags:
+        - Reviews
+      summary: getAllReviews
+      operationId: getAllReviewsUsingGET
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: paging.size
+          in: query
+          required: false
+          type: integer
+          format: int32
+          description: The number of Product Reviews you want to return.
+        - name: paging.from
+          in: query
+          required: false
+          type: integer
+          format: int32
+          description: The start page where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
+        - name: date
+          in: query
+          required: true
+          type: long
+          description: The starting date from which you want to pull Product Reviews from.  This terminates using today's date.
+        - name: apikey
+          in: query
+          required: true
+          type: string
+          description: The API Key PowerReviews provides you.
+        - name: merchantId
+          in: path
+          required: true
+          type: string
+          description: Your unique merchant ID.
+      responses:
+        '200':
+          description: OK
+          schema:
+            $ref: '#/definitions/QueryResponse'
+        '401':
+          description: Unauthorized
+        '403':
+          description: Forbidden
+        '404':
+          description: Not Found
+  '/m/{merchantId}/questions':
+    get:
+      tags:
+        - Q&A
+      summary: getAllQuestions
+      operationId: getAllQuestionsUsingGET
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: paging.size
+          in: query
+          required: false
+          type: integer
+          format: int32
+          description: The number of Product Questions you want to return.
+        - name: paging.from
+          in: query
+          required: false
+          type: integer
+          format: int32
+          description: The start page where you want to start returning Product Questions from. If you want reviews from page one, omit this parameter. 
+        - name: date
+          in: query
+          required: true
+          type: long
+          description: The starting date from which you want to pull Product Questions from.  This terminates using today's date.
+        - name: apikey
+          in: query
+          required: true
+          type: string
+          description: The API Key PowerReviews provides you.
+        - name: merchantId
+          in: path
+          required: true
+          type: string
+          description: Your unique merchant ID.
+      responses:
+        '200':
+          description: OK
+          schema:
+            $ref: '#/definitions/QueryResponse'
+        '401':
+          description: Unauthorized
+        '403':
+          description: Forbidden
+        '404':
+          description: Not Found
   '/m/{merchantId}/l/{locale}/question/{questionId}/answers':
     get:
       tags:
