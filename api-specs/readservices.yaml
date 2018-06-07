@@ -224,6 +224,14 @@ paths:
           type: integer
           format: int32
           description: The start page where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
+        - name: updated_date_query
+          in: query
+          required: false
+          type: boolean
+          enum:
+            - true
+            - false
+          description: If true return reviews based on updated date instead of created date.
         - name: date
           in: query
           required: true
