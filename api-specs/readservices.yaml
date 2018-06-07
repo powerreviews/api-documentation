@@ -87,7 +87,7 @@ paths:
           required: false
           type: integer
           format: int32
-          description: The start page where you want to start returning Questions from. If you want reviews from page one, omit this parameter. 
+          description: The Question where you want to start returning Questions from. If you want reviews from page one, omit this parameter. 
         - name: sort
           in: query
           required: false
@@ -150,7 +150,7 @@ paths:
           required: false
           type: integer
           format: int32
-          description: The start page where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
+          description: The Review where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
         - name: sort
           in: query
           required: false
@@ -223,7 +223,7 @@ paths:
           required: false
           type: integer
           format: int32
-          description: The start page where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
+          description: The review where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
         - name: updated_date_query
           in: query
           required: false
@@ -280,7 +280,7 @@ paths:
           required: false
           type: integer
           format: int32
-          description: The start page where you want to start returning Product Questions from. If you want reviews from page one, omit this parameter. 
+          description: The Question where you want to start returning Product Questions from. If you want reviews from page one, omit this parameter. 
         - name: date
           in: query
           required: true
@@ -329,7 +329,7 @@ paths:
           required: false
           type: integer
           format: int32
-          description: The start page where you want to start returning Answers from. If you want reviews from page one, omit this parameter. 
+          description: The Answer where you want to start returning Answers from. If you want reviews from page one, omit this parameter. 
         - name: apikey
           in: query
           required: true
