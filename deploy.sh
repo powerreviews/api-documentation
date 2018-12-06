@@ -4,8 +4,8 @@ rm -r -f staging
 mkdir staging
 
 pushd staging
-cp ../swagger-ui/* .
-cp ../api-specs/* .
+cp -r ../swagger-ui/* .
+cp -r ../api-specs/* .
 
 sed -i 's/..\/api-specs/\/\/developers.powerreviews.com/g' index.html
 
