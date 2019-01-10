@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="_Skins_HTML5___Top_Navigation" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="msapplication-config" content="../../Skins/Favicons/browserconfig.xml" />
+        <link rel="icon" sizes="16x16" href="../../Skins/Favicons/favicon-16x16.png" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Fluid/Stylesheets/foundation.6.2.3.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Fluid/Stylesheets/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" /><title>Write API</title>
+        <meta name="description" content="The Write Services B2B Write-a-Review endpoints provide external integration endpoints to PowerReviews Write-a_review for server-to-server implementations." />
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.6.2.3_custom.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <div class="foundation-wrap off-canvas-wrapper">
+            <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+                <aside class="off-canvas position-right" id="offCanvas" data-off-canvas="" data-position="right" data-mc-ignore="true">
+                    <ul class="off-canvas-drilldown vertical menu off-canvas-list" data-drilldown="" data-mc-back-link="Back" data-mc-css-tree-node-expanded="is-drilldown-submenu-parent" data-mc-css-tree-node-collapsed="is-drilldown-submenu-parent" data-mc-css-sub-menu="vertical menu slide-in-right is-drilldown-submenu" data-mc-include-indicator="False" data-mc-include-icon="False" data-mc-include-parent-link="True" data-mc-include-back="True" data-mc-defer-expand-event="True" data-mc-expand-event="click.zf.drilldown" data-mc-toc="True">
+                    </ul>
+                </aside>
+                <div class="off-canvas-content inner-wrap" data-off-canvas-content="">
+                    <div>
+                        <nav class="title-bar tab-bar" data-mc-ignore="true">
+                            <div class="middle title-bar-section outer-row clearfix">
+                                <div class="relative clearfix"><a class="logo" href="../Home.htm" alt="Logo"></a>
+                                    <div class="navigation-wrapper nocontent">
+                                        <ul class="navigation clearfix" data-mc-css-tree-node-has-children="has-children" data-mc-css-sub-menu="sub-menu" data-mc-expand-event="mouseenter" data-mc-top-nav-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                            <li class="placeholder" style="visibility:hidden"><a>placeholder</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <button class="menu-icon" data-toggle="offCanvas"><span></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="nav-search row outer-row">
+                                <form class="search" action="#">
+                                    <div class="search-bar search-bar-container needs-pie">
+                                        <input class="search-field needs-pie" type="search" placeholder="Search" />
+                                        <div class="search-filter-wrapper">
+                                            <div class="search-filter">
+                                                <div class="search-filter-content">
+                                                    <ul>
+                                                        <li>All Files</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="search-submit-wrapper" dir="ltr">
+                                            <div class="search-submit" title="Search">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </nav>
+                    </div>
+                    <section class="main-section">
+                        <div class="row outer-row" data-mc-content-body="True">
+                            <h1>Write <a name="kanchor1"></a>API</h1>
+                            <p>The <a name="kanchor2"></a>Write API endpoints provide external integration endpoints to PowerReviews Write-a-Review form for server-to-server implementations. These endpoints include:</p>
+                            <ul>
+                                <li value="1">GetReviewTemplate - this endpoint retrieves the set of review questions for a specific page id, locale, and user ID. This response is fully augmented by local specific content where applicable.</li>
+                                <li value="2">SubmitReview - this endpoint submits a user's review data for a product.</li>
+                            </ul>
+                            <p>These endpoints can be found at:&#160;http://writeservices.powerreviews.com/api/b2b/</p>
+                            <p class="note">It's important to note that keys should be used as identifiers for unique items within a specific display and aren't for targeting with our API.</p>
+                            <p>This page contains the following sections:</p>
+                            <ul>
+                                <li value="1"><a href="#Global" target="_parent">Global Parameters</a>
+                                </li>
+                                <li value="2"><a href="#Commonly" target="_parent">Commonly Used Parameters</a>
+                                </li>
+                                <li value="3"><a href="#Endpoint" target="_parent">Endpoints</a>
+                                </li>
+                                <li value="4"><a href="#Response" target="_parent">Response</a>
+                                </li>
+                                <li value="5"><a href="#Addition" target="_parent">Additional Details</a>
+                                </li>
+                            </ul>
+                            <h2><a name="Global"></a>Global Parameters</h2>
+                            <p>The following table lists parameters across the Write API.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Parameter Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Required?</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>merchant_group_id</td>
+                                        <td>Numeric</td>
+                                        <td>Yes</td>
+                                        <td>The PowerReviews assigned MerchantGroup Identifier.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>site_id</td>
+                                        <td>Text</td>
+                                        <td>Yes</td>
+                                        <td>Your internal site identifier. This is required if you use merchant_group_id.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>merchant_id</td>
+                                        <td>Numeric</td>
+                                        <td>No</td>
+                                        <td>The PowerReviews unique identifier for a merchant. You can use this parameter instead of merchant_group_id.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>apikey</td>
+                                        <td>Text</td>
+                                        <td>Yes</td>
+                                        <td>The token used to secure your requests. </td>
+                                    </tr>
+                                    <tr>
+                                        <td>locale</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>The locale used for your API&#160;call. If you don't provide this parameter, it defaults to your communication locale.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h2><a name="Commonly"></a>Commonly Used Parameters</h2>
+                            <p>The following table lists commonly used parameters.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td>Parameter Name</td>
+                                        <td>Data Type</td>
+                                        <td>Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id</td>
+                                        <td>Text</td>
+                                        <td>The page ID for a particular product. This should be a unique identifier.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id_variant</td>
+                                        <td>Text</td>
+                                        <td>The variant for a particular product. For example, a shirt with different colors.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>f</td>
+                                        <td>Text</td>
+                                        <td>The feature flag parameter. Using this parameter you can override the default functionality or functionality provided by merchant properties. You can submit multiple parameters with this name on the same request.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h2><a name="Endpoint"></a>Endpoints</h2>
+                            <h3>GetReviewTemplate</h3>
+                            <p>You can find the GetReviewTemplate endpoint at the following URL: /api/b2b/writereview/review_template</p>
+                            <p>The request Content Type is application/json.</p>
+                            <p>The request method is GET.</p>
+                            <p>The following table lists the request parameters for the GetReviewTemplate endpoint.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Parameter Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Required?</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id</td>
+                                        <td>Text</td>
+                                        <td>Yes</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id_variant</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>f</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>merchant_user_email</td>
+                                        <td>String</td>
+                                        <td>No</td>
+                                        <td>Your email address.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>String</td>
+                                        <td>No</td>
+                                        <td>Your unique identifier that identifies duplicate submissions for a review.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>The following table lists the JSON&#160;Responses for the GetReviewTemplate endpoint.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>fields</td>
+                                        <td>JSON&#160;object Array</td>
+                                        <td>
+                                            <p>A list of configuration objects that render each form field of the review submission form. Fields can be one of the following types:</p>
+                                            <ul>
+                                                <li value="1">simple</li>
+                                                <li value="2">collection</li>
+                                                <li value="3">composite</li>
+                                            </ul>
+                                            <p>The order of a configuration object denotes the general display ordering of fields.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>started_timestamp</td>
+                                        <td>Timestamp</td>
+                                        <td>The server-generated timestamp that denotes the start of a consumer session.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>context_information</td>
+                                        <td>JSON&#160;object</td>
+                                        <td>The context information regarding the review template used for debugging purposes.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Common Field Types</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>field_type</td>
+                                        <td>Text</td>
+                                        <td>
+                                            <p>An enumerated value, either simple, collection, or composite.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>key</td>
+                                        <td>Text</td>
+                                        <td>The unique identifier for a review question.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>id</td>
+                                        <td>Text</td>
+                                        <td>An internal identifier for a field that's provided for debugging purposes. The ID&#160;format indicates whether the field is derived from an MSQ or has AttributeGroupOverride applied.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>label</td>
+                                        <td>Text</td>
+                                        <td>The field label text that displays in the review form.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>is_required</td>
+                                        <td>Boolean</td>
+                                        <td>A yes/no field that specifies if a consumer response is required for the question.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>is_hidden</td>
+                                        <td>Boolean</td>
+                                        <td>A yes/no field that specifies if a field should display. In this case, the values of the field are managed by application logic.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>helper_text</td>
+                                        <td>Text</td>
+                                        <td>A localized prompt of information that displays as part of the element rendering.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type -&#160;Simple Field</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>value</td>
+                                        <td>Text/Numeric</td>
+                                        <td>
+                                            <p>The value to populate the field as a default value. The value is numeric if the input_type is stars, otherwise this field is text.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>input_type</td>
+                                        <td>Text</td>
+                                        <td>An enumerated value. The valid choices for this field are textbox, textarea, and stars.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>max_length</td>
+                                        <td>Numeric</td>
+                                        <td>The maximum number of characters allowed for text-based input. If this attribute is missing, it's assumed to be unlimited. For the stars input_type, this value denotes the highest rating value allowed.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type - Collection Field</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>values</td>
+                                        <td>Text/Numeric</td>
+                                        <td>
+                                            <p>The value that populates the field as a default value. The value is numeric if the input_type is stars, otherwise this field is text.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>choices</td>
+                                        <td>JSON&#160;array</td>
+                                        <td>The default choices to populate. The maximum supported length of individual values/choices is 100 characters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>input_type</td>
+                                        <td>Text</td>
+                                        <td>
+                                            <p>Indicates the type of control to render the form element. The supported values include:</p>
+                                            <ul>
+                                                <li value="1">TextBoxVertical</li>
+                                                <li value="2">RadioVertical</li>
+                                                <li value="3">RadioHorizontal</li>
+                                                <li value="4">RadioHorizontalLinked</li>
+                                                <li value="5">Dropdown</li>
+                                                <li value="6">AgeDisclosure</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>answer_type</td>
+                                        <td>Text</td>
+                                        <td>An enumerated value that supports single and multiple values. Certain input_type values imply answer_type.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>Field Type - Composite</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>input_type</td>
+                                        <td>Text</td>
+                                        <td>
+                                            <p>An enumerated value to indicate the composite type. Supported values are simple, image, and video.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>prompt</td>
+                                        <td>Text</td>
+                                        <td>Auxiliary text to display in addition to the field label.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>count</td>
+                                        <td>Numeric</td>
+                                        <td>Maximum number of times to duplicate the fields input fields as a group.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>fields</td>
+                                        <td>JSON&#160;array</td>
+                                        <td>Similar to fields from the top-level structure, but only simple and collection types are allowed.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>JSON&#160;Response Example</p><pre><code class="language.html">        
+ {
+        fields":[{
+        "id":"ag1",
+        "field_type":"simple",
+        "key":"headline",
+        "label":"Review Headline",
+        "required":true,
+        "helper_text":"Ex. I would buy this product again and again",
+        "input_type":"TextBox",
+        "answer_type":"text",
+        "max_length":60
+        },{
+        "id":"ag2",
+        "field_type":"simple",
+        "key":"rating",
+        "label":"Your Rating",
+        "required":true,
+        "input_type":"Stars",
+        "answer_type":
+        "numeric",
+        "max_length":5
+        },{
+        "id":"ag52922",
+        "field_type":"collection",
+        "key":"pros",
+        "label":"Pros",
+        "required":false,
+        "helper_text":"Select all that apply",
+        "choices":[{
+        "id":"3840736",
+        "value":"Adorable"
+        },{
+        "id":"3840737",
+        "value":"Cute"
+        },{
+        "id":"3840738",
+        "value":"Friendly"
+        },{
+        "id":"3840739",
+        "value":"Lively"
+        }
+        ],
+        "input_type":"CheckboxVertical",
+        "answer_type":"multiple"
+        },{
+        "id":"recommended_products",
+        "field_type":"composite",
+        "key":"recommended_products",
+        "label":"Do You Recommend Any Accessories?",
+        "required":false,
+        "prompt":"List the names of the accessories you recommend.",
+        "composite_type":"Simple",
+        "count":3,
+        "fields":[{
+        "field_type":"simple",
+        "key":"recommended_products",
+        "required":false,
+        "input_type":"TextBox",
+        "answer_type":"text"
+        }
+        ]
+        },{
+        "id":"media_image",
+        "field_type":"composite",
+        "key":"media_image",
+        "required":false,
+        "prompt":"Attach Image",
+        "composite_type":"Image",
+        "count":2,
+        "fields":[{
+        "id":"ag38",
+        "field_type":"simple",
+        "key":"caption",
+        "label":"Caption",
+        "required":false,
+        "input_type":"TextBox",
+        "answer_type":"text"
+        }]
+        }],
+        "started_timestamp": "2015-10-27T00:59:00.048Z",
+        "context_information": {
+        "product_id":8269979,
+        "product_template_id":20085,
+        "image_template_id":5,
+        }
+        }
+</code></pre>
+                            <h3>SubmitReview</h3>
+                            <p>You can find the SubmitReview endpoint at the following URL: /api/b2b/writereview/submit_review</p>
+                            <p>The request Content Type is application/json.</p>
+                            <p>The request method is POST.</p>
+                            <p>The following table lists the request parameters for the SubmitReview endpoint.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Parameter Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Required?</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id</td>
+                                        <td>Text</td>
+                                        <td>Yes</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>page_id_variant</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>f</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Refer to Commonly Used Parameters.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>merchant_user_id</td>
+                                        <td>String</td>
+                                        <td>No</td>
+                                        <td>Your merchant id.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>merchant_user_email</td>
+                                        <td>String</td>
+                                        <td>No</td>
+                                        <td>Your merchant email address.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>String</td>
+                                        <td>No</td>
+                                        <td>Your provided identifier to identify duplicate submissions for a review.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>The following table lists the JSON&#160;Request Body for the SubmitReview endpoint.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Required?</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>fields</td>
+                                        <td>JSON&#160;Object</td>
+                                        <td>Yes</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>started_timestamp</td>
+                                        <td>Timestamp</td>
+                                        <td>No</td>
+                                        <td>The server defaults to the current time if it isn't provided.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>submitted_timestamp</td>
+                                        <td>Timestamp</td>
+                                        <td>No</td>
+                                        <td>The server defaults to the current time if it isn't provided.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>reviewer_type</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>The accepted values are site_member and staff.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ip_address</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>The IP&#160;address of the person who submitted the review.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>iovation_black_box</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>The authenticity iOvation blackbox data.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>browser</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Allows the capture of user-agent string.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>promo_code</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Your specified identifier used to identify any promotion associated with a review.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>campaign_id</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Your specified identifier used to identify any promotion associated with a review. This parameter isn't validated by the PowerReviews platform.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>order_id</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>The unique identifier managed by a given merchant, and identifies an order for which the reviewer purchased the product under review.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>source</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Accepted values are web and email. This attribute defaults to web.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>disclosure_code</td>
+                                        <td>Text</td>
+                                        <td>No</td>
+                                        <td>Accepted values are sampling and sweepstakes.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type - Common Fields</h4>
+                            <p>The following fields are required as part of any field object in the SubmitReview JSON&#160;request body.</p>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>field_type</td>
+                                        <td>Text</td>
+                                        <td>
+                                            <p>Valid values for this field are simple, collection, and composite.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>key</td>
+                                        <td>Text</td>
+                                        <td>The key that uniquely identifies a review questions.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>id</td>
+                                        <td>Text</td>
+                                        <td>Your internal identifier for a field that's provided for debugging purposes. The ID&#160;format indicates whether the field is derived from an MSQ&#160;or has an AttributeGroupOverride applied to it.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type - Simple Field</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>value</td>
+                                        <td>Text/Numeric</td>
+                                        <td>
+                                            <p>The value to populate the field as the default value. This value is numeric if the input_type is stars, otherwise, this value is text.</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type - Collection Field</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>values</td>
+                                        <td>Text/Numeric</td>
+                                        <td>
+                                            <p>The value to populate the field as the default value. This value is numeric if the input_type is stars, otherwise, this value is text.</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Field Type -&#160;Composite Field</h4>
+                            <table style="width: 100%;">
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <col>
+                                </col>
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>key</td>
+                                        <td>Text</td>
+                                        <td>
+                                            <p>Uniquely identifies a review media object. For example, media_image_0, media_videourl_0.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>composite_type</td>
+                                        <td>Text</td>
+                                        <td>The type of review media. This currently supports Image and Video.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>composite_data</td>
+                                        <td>JSON&#160;Object</td>
+                                        <td>
+                                            <p>The nested structure used for extended composite types, currently just the image type.</p>
+                                            <p><b>Image Type Examples</b>:</p>
+                                            <p>"raw":{</p>
+                                            <p>"size": 86,</p>
+                                            <p>"width": 960,</p>
+                                            <p>"url": "http://res.cloudinary.com/powerreviews/image/upload/v1460390250/qa/bffwwwhukf2qbq8qdriw.jpg",</p>
+                                            <p>"height": 640,</p>
+                                            <p>"publicid": "qa/bffwwwhukf2qbq8qdriw"</p>
+                                            <p>}</p>
+                                            <p>Note the raw image has to be an existing image in the PowerReviews Cloudinary account.</p>
+                                            <p>"external_image": {"url":"https://upload.wikimedia.org/wikipedia/en/9/9d/Orange-sun-small.jpg"}</p>
+                                            <p><b>Video Type Example:</b>
+                                            </p>
+                                            <p>{</p>
+                                            <p>"video_url":"http://res.cloudinary.com/powerreviews/video/upload/v1461167315/qlk3wqs0ik4znmdqcqst.mp4"&lt;</p>
+                                            <p>"video_thumbnail_url":"http://res.cloudinary.com/powerreviews/video/upload/t_media_lib_thumb/qlk3wqs0ik4znmdqcqst.jpg"</p>
+                                            <p>}</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>fields</td>
+                                        <td>JSON&#160;Array</td>
+                                        <td>Similar to fields from top-level structure, but only simple and collection types are allowed.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>JSON&#160;Request Example</h4><pre><code class="language.html">
+{
+        "fields": [{
+        "id": "ag19946",
+        "id": "ag19946",
+        "field_type": "simple",
+        "key": "headline",
+        "label": "Review Headline",
+        "value": "TEST B2B w/ image and video"
+        }, {
+        "id": "ag19944",
+        "field_type": "simple",
+        "key": "rating",
+        "label": "Overall Rating",
+        "value": 5
+        }, {
+        "id": "ag19955",
+        "field_type": "collection",
+        "key": "gender",
+        "label": "Gender",
+        "values": [{"value":"Female"}]
+        }, {
+        "id": "ag19951",
+        "field_type": "simple",
+        "key": "comments",
+        "label": "Comments",
+        "value": "test"
+        }, {
+        "id": "ag19947",
+        "field_type": "simple",
+        "key": "name",
+        "label": "Nickname",
+        "value": "test"
+        }, {
+        "id": "ag19945",
+        "field_type": "simple",
+        "key": "location",
+        "label": "Your Location",
+        "value": "SF, CA"
+        }, {
+        "id": "ag54555_msq10287",
+        "field_type": "simple",
+        "key": "thisisasubrating",
+        "label": "This is a subrating",
+        "value": 5
+        }, {
+        "field_type": "composite",
+        "key": "media_image_0",
+        "composite_type": "Image",
+        "composite_data": {
+        "external_image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Orange-sun-small.jpg"
+        },
+        "fields": [{
+        "id": "ag38",
+        "field_type": "simple",
+        "key": "caption",
+        "label": "Caption",
+        "required": false,
+        "input_type": "TextBox",
+        "answer_type": "text"
+        }]
+        }, {
+        "field_type": "composite",
+        "key": "media_image_1",
+        "composite_type": "Image",
+        "composite_data": {
+        "raw": {
+        "size": 86,
+        "width": 960,
+        "url": "http://res.cloudinary.com/powerreviews/image/upload/v1460390250/qa/bffwwwhukf2qbq8qdriw.jpg",
+        "height": 640,
+        "publicId": "qa/bffwwwhukf2qbq8qdriw"
+        }
+        },
+        "fields": [{
+        "id": "ag38",
+        "field_type": "simple",
+        "key": "caption",
+        "label": "Caption",
+        "required": false,
+        "input_type": "TextBox",
+        "answer_type": "text"
+        }]
+        }, {
+        "id": "media_videourl_0",
+        "field_type": "composite",
+        "key": "media_videourl_0",
+        "composite_type": "Video",
+        "composite_data": {
+        "video_url": "http://res.cloudinary.com/powerreviews/video/upload/v1461167315/qlk3wqs0ik4znmdqcqst.mp4",
+        "video_thumbnail_url": "http://res.cloudinary.com/powerreviews/video/upload/t_media_lib_thumb/qlk3wqs0ik4znmdqcqst.jpg"
+        },
+        "fields": [{
+        "id": "ag38",
+        "field_type": "simple",
+        "key": "caption",
+        "label": "Caption",
+        "required": false,
+        "input_type": "TextBox",
+        "answer_type": "text",
+        "value": "caption123 from b2b api"
+        }]
+        }],
+        "started_timestamp": "2016-02-02T14:51:40.827Z",
+        "submitted_timestamp": "2016-02-02T15:51:40.827Z",
+        "reviewer_type": "site_member",
+        "ip_address": "50.233.26.214",
+        "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36",
+        "promo_code": "test_promo",
+        "campaign_id": "1",
+        "order_id": "1",
+        "disclosure_code": "sweepstakes",
+        "iovation_black_box": "test",
+        "source": "web"
+        }
+</code></pre>
+                            <h2><a name="Response"></a>Response</h2>
+                            <p>If a request fails to pass validation, a response similar to the GetReviewTemplate query returns. However, only fields that failed validation return and have the error_message attribute populated.</p>
+                            <p>Field Type - Common Fields</p>
+                            <table style="width: 100%;">
+                                <col />
+                                <col />
+                                <col />
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>error_message</td>
+                                        <td>JSON&#160;object</td>
+                                        <td>Error information that displays for a given field, if the field value is in error.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h3>Error Message</h3>
+                            <p>This object can be top-level or nested inside of a field object.</p>
+                            <table style="width: 100%;">
+                                <col />
+                                <col />
+                                <col />
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Attribute Name</td>
+                                        <td style="font-weight: bold;text-align: center;">Data Type</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>code</td>
+                                        <td>Text</td>
+                                        <td>The unique identifier describing the error. This attribute is different than status code.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>message</td>
+                                        <td>Text</td>
+                                        <td>A localized message that displays to an end user.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>detail</td>
+                                        <td>JSON&#160;object</td>
+                                        <td>Additional details about the error used for the programmatic handling of the error.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4>Common Error Responses</h4>
+                            <p>The following table lists error responses that reject a request in its entirety.</p>
+                            <table style="width: 100%;">
+                                <col />
+                                <col />
+                                <col />
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Error Code</td>
+                                        <td style="font-weight: bold;text-align: center;">Http Status</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CouldNotReadRequest</td>
+                                        <td>400</td>
+                                        <td>Invalid JSON&#160;body or otherwise unreadable request body.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Missing Merchant</td>
+                                        <td>400</td>
+                                        <td>Missing parameter combination to identify the merchant account.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MissingParameter</td>
+                                        <td>400</td>
+                                        <td>General error message if a required parameter is missing. The message identifies the missing parameter.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Invalid Parameter</td>
+                                        <td>400</td>
+                                        <td>General error message if a parameter fails validation. The message identifies the missing parameter.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CouldNotSaveImage</td>
+                                        <td>400</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ImageUploadNotEnabled</td>
+                                        <td>400</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>UnrecognizedField</td>
+                                        <td>400</td>
+                                        <td>The field provided has a key that isn't a part of the expected review template.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ValidationFailure</td>
+                                        <td>400</td>
+                                        <td>One of the fields submitted failed validation.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MerchantNotEnabled</td>
+                                        <td>401</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MerchantNotEnabledForSSL</td>
+                                        <td>401</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Missing API</td>
+                                        <td>401</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Invalid API&#160;Key</td>
+                                        <td>403</td>
+                                        <td>&#160;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ReviewAlreadySubmitted</td>
+                                        <td>403</td>
+                                        <td>Returns if t he review is identified as already submitted.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ReviewTooLong</td>
+                                        <td>413</td>
+                                        <td>Returns if the review content was too large for the internal system to handle.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>InternalError</td>
+                                        <td>500</td>
+                                        <td>Returns if unexpected error is encountered in the server.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h3>Feature Flags</h3>
+                            <table style="width: 100%;">
+                                <col />
+                                <col />
+                                <col />
+                                <tbody>
+                                    <tr>
+                                        <td style="font-weight: bold;text-align: center;">Feature</td>
+                                        <td style="font-weight: bold;text-align: center;">Flags</td>
+                                        <td style="font-weight: bold;text-align: center;">Description</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Profanity Check</td>
+                                        <td>skipProfanityCheck</td>
+                                        <td>Allows profanity checks to be skipped on content submission.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h2><a name="Addition"></a>Additional Details</h2>
+                            <p>Only pending status reviews are accepted by these endpoints.</p>
+                            <p>Stored reviews have audit information stored in the REVIEW_EXTRA&#160;table if the review has a flag denoting that the review was via the API&#160;endpoint.</p>
+                            <p>Content submission from high-volume merchants is isolated from general online submission and that of low-volume merchants.</p>
+                            <h3>Need more help? <a href="../Contact Us.htm" target="_parent">Contact us</a>!</h3>
+                        </div>
+                    </section><a data-close="true"></a>
+                </div>
+            </div>
+            <script>/* <![CDATA[ */$(document).foundation();/* ]]> */</script>
+        </div>
+    </body>
+</html>
