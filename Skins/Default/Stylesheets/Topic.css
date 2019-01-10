@@ -477,6 +477,15 @@ a.glossaryTerm
 	display: none;
 }
 
+div.MCBreadcrumbsBox_0
+{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
