@@ -6,10 +6,10 @@ mkdir staging
 pushd staging
 cp -r ../swagger-ui/* .
 cp -r ../api-specs/* .
-cp -r ../Content/* .
-cp -r ../Data/* .
-cp -r ../Resources/* .
-cp -r ../Skins/* .
+cp -r ../Content .
+cp -r ../Data/ .
+cp -r ../Resources .
+cp -r ../Skins .
 
 sed -i 's/..\/api-specs/\/\/developers.powerreviews.com/g' index.html
 
