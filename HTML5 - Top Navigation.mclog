@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 r3 Generated Online Output/HTML5 - Top Navigation.fltar" Date="2019-02-05T16:14:14.1662589-06:00">
+    <Messages>Compiling target HTML5 - Top Navigation...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Collecting source files...
+Processing source files...
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Alerts.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/All Reviews.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Brands.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Category Reports.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Conversion Report.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Customers.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Emails.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Observation Codes Reference Guide.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Products.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Question &amp; Answer Reports.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage &amp; Reviewer Type.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Volume.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Sales Influence.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Syndication Reports.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Tag Reports.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Updates to Reports Columns.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Working with Reports.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/PowerReviews APIs.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Product Answers API.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Product Answers.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Read Services API.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Write API.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Write Reviews API.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Account.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Alerts.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Channels.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Professional.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/Direct Syndication.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/Product Data.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/UGC Integration.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Custom Questions.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Merchant Specific Questions.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Premium Collection.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Review Your Purchases.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Visual Content Collection.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Write-a-Review.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Checkout Beacon.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Collect Email.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Order Feed.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Product Status.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Alternative Media Gallery.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Apparel and Footwear Look and Feel.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Badges.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Category Snippets.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Demographic Information.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Image Gallery.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Page IDs and Variants.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Display Configurations.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Display.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Search and Filtering.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Snapshot.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Share to Amazon.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Adding Code to your Product Page.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Badges in Display 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Collect 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Customizing the Product Page Review Snippet Based on Review Count.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Display 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Integrating In-Line SEO.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Standard Implemenation and Readiness for Display 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Styling Collect 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Styling Display 3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Upgrading from Display 3 and Older.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Write A Review Page Code.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Determine Your PowerReviews Version.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Getting Started with PowerReviews.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Known Issues.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Release Notes.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Upgrading.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/What's new.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Implementation/Implementation Kick Off.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Implementation/Implementation Overview.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Analytics &amp; Insights.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/PowerReviews Integrations.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/PowerReviews Policies.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Products.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Ratings and Reviews.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Resources.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Services.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Training Webinars.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Magento/Magento.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Magento/Salesforce.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Custom Moderation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/iOvation Validation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Locale Support &amp; Moderation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Images &amp; Videos.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Q&amp;A.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Reviews.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation &amp; Observations.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation Alerts.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation Search, Channels, and Worklists.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/ModerationAlerts.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/PowerReviews Moderation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/QuestionAssignment.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/Content ZIPs.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/Customizing Your PowerReviews Platform.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/JavaScript Reference Guide.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/PowerReviews Platform.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/XML Schema.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Authenticity Policy.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Moderation Policy.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Sweepstakes Rules.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Feedless.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Google Merchant Product Feed.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Product Catalog.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Product Feed.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Template Mapping.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion Calendar.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/Promotional Graphics.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Question Forms.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Questions &amp; Answers.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Why Did You Buy.htm.
+Image "ModerationAlertsGif.gif" regenerated for "" medium: Resources\Images\ModerationAlertsGif.gif
+Image "PR_Logo.png" regenerated for "" medium: Resources\Images\PR_Logo.png
+Image "SCR_ModerationAlerts.gif" regenerated for "" medium: Resources\Images\SCR_ModerationAlerts.gif
+Image "SCR_ModerationAlerts2.png" regenerated for "" medium: Resources\Images\SCR_ModerationAlerts2.png
+Image "SCR_PromoLargeCallout2.png" regenerated for "" medium: Resources\Images\SCR_PromoLargeCallout2.png
+Image "SCR_PromoLargeCallout3.png" regenerated for "" medium: Resources\Images\SCR_PromoLargeCallout3.png
+Image "SCR_PromoSmallCallout2.png" regenerated for "" medium: Resources\Images\SCR_PromoSmallCallout2.png
+Image "AllReviewsMappedChanges.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\AllReviewsMappedChanges.png
+Image "CDM_AllQuestionsMappedChanges.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\CDM_AllQuestionsMappedChanges.png
+Image "CDR_AllQuestionsMappedChanges.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\CDR_AllQuestionsMappedChanges.png
+Image "SCR_ReviewerCountsByWeek.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\SCR_ReviewerCountsByWeek.png
+Image "SCR_ReviewerTypeDetail.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\SCR_ReviewerTypeDetail.png
+Image "SCR_SalesInfluenceReport.png" regenerated for "" medium: Resources\Images\Analytics &amp; Insights\SCR_SalesInfluenceReport.png
+Image "GIF_Screen Recording_progressive.gif" regenerated for "" medium: Resources\Images\Collect\GIF_Screen Recording_progressive.gif
+Image "ProgressiveCollection1.jpg" regenerated for "" medium: Resources\Images\Collect\ProgressiveCollection1.jpg
+Image "ProgressiveCollection2.jpg" regenerated for "" medium: Resources\Images\Collect\ProgressiveCollection2.jpg
+Image "SCR_MediaOnlyFirstScreen.png" regenerated for "" medium: Resources\Images\Collect\SCR_MediaOnlyFirstScreen.png
+Image "SCR_MSQDisplay.png" regenerated for "" medium: Resources\Images\Collect\SCR_MSQDisplay.png
+Image "SCR_MSQWAR.png" regenerated for "" medium: Resources\Images\Collect\SCR_MSQWAR.png
+Image "SCR_RYP.png" regenerated for "" medium: Resources\Images\Collect\SCR_RYP.png
+Image "SCR_SSP_WARTest.png" regenerated for "" medium: Resources\Images\Collect\SCR_SSP_WARTest.png
+Image "SCR_SSP_WARTestNoReviews.png" regenerated for "" medium: Resources\Images\Collect\SCR_SSP_WARTestNoReviews.png
+Image "SCR_WAR.png" regenerated for "" medium: Resources\Images\Collect\SCR_WAR.png
+Image "SCR_WARExamplePlacement.png" regenerated for "" medium: Resources\Images\Collect\SCR_WARExamplePlacement.png
+Image "SCR_WARForm.png" regenerated for "" medium: Resources\Images\Collect\SCR_WARForm.png
+Image "Demographics_after.png" regenerated for "" medium: Resources\Images\Demographic Information\Demographics_after.png
+Image "Demographics_before.png" regenerated for "" medium: Resources\Images\Demographic Information\Demographics_before.png
+Image "AltMediaGallery.jpg" regenerated for "" medium: Resources\Images\Display\AltMediaGallery.jpg
+Image "ApparelFootwearReviewDisplay.png" regenerated for "" medium: Resources\Images\Display\ApparelFootwearReviewDisplay.png
+Image "ReviewSnapshot.png" regenerated for "" medium: Resources\Images\Display\ReviewSnapshot.png
+Image "SCR_CondensedReviewList.PNG" regenerated for "" medium: Resources\Images\Display\SCR_CondensedReviewList.png
+Image "SCR_NewMediaGallery.png" regenerated for "" medium: Resources\Images\Display\SCR_NewMediaGallery.png
+Image "SCR_OldMediaGallery.png" regenerated for "" medium: Resources\Images\Display\SCR_OldMediaGallery.png
+Image "SCR_ReviewFiltersScenario.PNG" regenerated for "" medium: Resources\Images\Display\SCR_ReviewFiltersScenario.png
+Image "SCR_ReviewSearch.png" regenerated for "" medium: Resources\Images\Display\SCR_ReviewSearch.png
+Image "SCR_Sizefitsnippet.png" regenerated for "" medium: Resources\Images\Display\SCR_Sizefitsnippet.png
+Image "SCR_VerticalPagination.png" regenerated for "" medium: Resources\Images\Display\SCR_VerticalPagination.png
+Image "SDR_NewMediaGallery.bmp" regenerated for "" medium: Resources\Images\Display\SDR_NewMediaGallery.bmp
+Image "ShareToSocial1.png" regenerated for "" medium: Resources\Images\Display\ShareToSocial1.png
+Image "image02.png" regenerated for "" medium: Resources\Images\Display 3\image02.png
+Image "image03.png" regenerated for "" medium: Resources\Images\Display 3\image03.png
+Image "image04.png" regenerated for "" medium: Resources\Images\Display 3\image04.png
+Image "image1.png" regenerated for "" medium: Resources\Images\Display 3\image1.png
+Image "image13.png" regenerated for "" medium: Resources\Images\Display 3\image13.png
+Image "image2.png" regenerated for "" medium: Resources\Images\Display 3\image2.png
+Image "image21.png" regenerated for "" medium: Resources\Images\Display 3\image21.png
+Image "image22.png" regenerated for "" medium: Resources\Images\Display 3\image22.png
+Image "image24.png" regenerated for "" medium: Resources\Images\Display 3\image24.png
+Image "image26.png" regenerated for "" medium: Resources\Images\Display 3\image26.png
+Image "image3.png" regenerated for "" medium: Resources\Images\Display 3\image3.png
+Image "image32.png" regenerated for "" medium: Resources\Images\Display 3\image32.png
+Image "image35.png" regenerated for "" medium: Resources\Images\Display 3\image35.png
+Image "image42.png" regenerated for "" medium: Resources\Images\Display 3\image42.png
+Image "SCR_enablereview display.png" regenerated for "" medium: Resources\Images\Magento\SCR_enablereview display.png
+Image "SCR_SalesforceLogo.bmp" regenerated for "" medium: Resources\Images\Magento\SCR_SalesforceLogo.bmp
+Image "SCR_SalesforceLogo.png" regenerated for "" medium: Resources\Images\Magento\SCR_SalesforceLogo.png
+Image "SCR_SaveConfig.png" regenerated for "" medium: Resources\Images\Magento\SCR_SaveConfig.png
+Image "SCR_ViewSecondStore.png" regenerated for "" medium: Resources\Images\Magento\SCR_ViewSecondStore.png
+Image "ModerationAlertsGif.gif" regenerated for "" medium: Resources\Images\Moderation\ModerationAlertsGif.gif
+Image "SCR_ModerationAlerts.gif" regenerated for "" medium: Resources\Images\Moderation\SCR_ModerationAlerts.gif
+Image "SCR_ModerationAlerts1.png" regenerated for "" medium: Resources\Images\Moderation\SCR_ModerationAlerts1.png
+Image "SCR_ModerationAlerts2.png" regenerated for "" medium: Resources\Images\Moderation\SCR_ModerationAlerts2.png
+Image "SCR_MOD_AddObservations.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_AddObservations.png
+Image "SCR_MOD_AddObservations1.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_AddObservations1.png
+Image "SCR_MOD_AlertChannels.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_AlertChannels.png
+Image "SCR_MOD_AlertingSetup.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_AlertingSetup.png
+Image "SCR_MOD_EditMerchantResponse.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_EditMerchantResponse.png
+Image "SCR_MOD_ImageCard2.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_ImageCard2.png
+Image "SCR_MOD_ImageCard3.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_ImageCard3.png
+Image "SCR_MOD_NetworkReviews.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_NetworkReviews.png
+Image "SCR_MOD_NotTags.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_NotTags.png
+Image "SCR_MOD_QandA.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_QandA.png
+Image "SCR_MOD_ReviewCard2.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_ReviewCard2.png
+Image "SCR_MOD_ReviewNoObservation.jpg" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_ReviewNoObservation.jpg
+Image "SCR_MOD_TaggedObservation.jpg" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_TaggedObservation.jpg
+Image "SCR_MOD_TaggedObservation2.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_TaggedObservation2.png
+Image "SCR_MOD_Ummoderated.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_Ummoderated.png
+Image "SCR_MOD_UnModerated.jpg" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_UnModerated.jpg
+Image "SCR_MOD_VideoCard1.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_VideoCard1.png
+Image "SCR_MOD_Worklist1.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_Worklist1.png
+Image "SCR_MOD_Worklists2.png" regenerated for "" medium: Resources\Images\Moderation\SCR_MOD_Worklists2.png
+Image "Q&amp;A.png" regenerated for "" medium: Resources\Images\Portal 2.0\Q&amp;A.png
+Image "Ratings and reviews.png" regenerated for "" medium: Resources\Images\Portal 2.0\Ratings and reviews.png
+Image "reviews from email.png" regenerated for "" medium: Resources\Images\Portal 2.0\reviews from email.png
+Image "image1.png" regenerated for "" medium: Resources\Images\Product Sampling\image1.png
+Image "Screen Shot 2018-09-28 at 1.14.12 PM.png" regenerated for "" medium: Resources\Images\Product Status\Screen Shot 2018-09-28 at 1.14.12 PM.png
+Image "Screen Shot 2018-09-28 at 1.14.16 PM.png" regenerated for "" medium: Resources\Images\Product Status\Screen Shot 2018-09-28 at 1.14.16 PM.png
+Image "Screen Shot 2018-09-28 at 1.14.54 PM.png" regenerated for "" medium: Resources\Images\Product Status\Screen Shot 2018-09-28 at 1.14.54 PM.png
+Image "StatusCard.png" regenerated for "" medium: Resources\Images\Product Status\StatusCard.png
+Image "SCR_PromoLargeCallout2.bmp" regenerated for "" medium: Resources\Images\Promos\SCR_PromoLargeCallout2.bmp
+Image "SCR_PromoLargeCallout2.png" regenerated for "" medium: Resources\Images\Promos\SCR_PromoLargeCallout2.png
+Image "SCR_PromoLargeCallout3.png" regenerated for "" medium: Resources\Images\Promos\SCR_PromoLargeCallout3.png
+Image "SCR_PromoSmallCallout2.bmp" regenerated for "" medium: Resources\Images\Promos\SCR_PromoSmallCallout2.bmp
+Image "SCR_PromoSmallCallout2.png" regenerated for "" medium: Resources\Images\Promos\SCR_PromoSmallCallout2.png
+Image "SCR_SwepstakesCallout.png" regenerated for "" medium: Resources\Images\Promos\SCR_SwepstakesCallout.png
+Image "SCR_QandA.png" regenerated for "" medium: Resources\Images\Q&amp;A\SCR_QandA.png
+Image "SCR_WhyDidYouBuyDisplay.PNG" regenerated for "" medium: Resources\Images\Q&amp;A\SCR_WhyDidYouBuyDisplay.png
+Image "customcode1.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\customcode1.png
+Image "customcode2.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\customcode2.png
+Image "customcode3.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\customcode3.png
+Image "customcode4.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\customcode4.png
+Image "instancetypeall.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\instancetypeall.png
+Image "locale.png" regenerated for "" medium: Resources\Images\Salesforce\LINK\locale.png
+Image "localesettings.png" regenerated for "" medium: Resources\Images\Salesforce\SFA\localesettings.png
+Image "Screen Shot 2018-11-29 at 3.57.29 PM.png" regenerated for "" medium: Resources\Images\Salesforce\SFA\Screen Shot 2018-11-29 at 3.57.29 PM.png
+Image "SCR_SSP_EmailManager.PNG" regenerated for "" medium: Resources\Images\Self-Service Portal\SCR_SSP_EmailManager.png
+Image "SCR_SSP_ReviewDisplayRender.png" regenerated for "" medium: Resources\Images\Self-Service Portal\SCR_SSP_ReviewDisplayRender.png
+Image "SCR_SSP_PreviewEmail.png" regenerated for "" medium: Resources\Images\Self-Service Portal\Legacy\SCR_SSP_PreviewEmail.png
+Image "StS_Widget.png" regenerated for "" medium: Resources\Images\Share to Social\StS_Widget.png
+Image "SCR_ShopifyLogo.jpg" regenerated for "" medium: Resources\Images\Shopify\SCR_ShopifyLogo.jpg
+Image "SCR_Shopify_Pricing.png" regenerated for "" medium: Resources\Images\Shopify\SCR_Shopify_Pricing.png
+Image "SCR_SSP_ReviewDisplayRender.png" regenerated for "" medium: Resources\Images\Shopify\SCR_SSP_ReviewDisplayRender.png
+Image "Moderation.png" regenerated for "" medium: Resources\Images\Social Collection\Moderation.png
+Image "SC_Campaigns.png" regenerated for "" medium: Resources\Images\Social Collection\SC_Campaigns.png
+Image "SC_Choose_Insta.png" regenerated for "" medium: Resources\Images\Social Collection\SC_Choose_Insta.png
+Image "SC_CreateStream.png" regenerated for "" medium: Resources\Images\Social Collection\SC_CreateStream.png
+Image "SC_Existing_Campaigns.png" regenerated for "" medium: Resources\Images\Social Collection\SC_Existing_Campaigns.png
+Image "SC_FB_Login.png" regenerated for "" medium: Resources\Images\Social Collection\SC_FB_Login.png
+Image "SocialCollectionProcess.png" regenerated for "" medium: Resources\Images\Social Collection\SocialCollectionProcess.png
+Image "DGM_Syndication.png" regenerated for "" medium: Resources\Images\Syndication\DGM_Syndication.png
+Image "image1.png" regenerated for "" medium: Resources\Images\Syndication\image1.png
+Image "image2.png" regenerated for "" medium: Resources\Images\Syndication\image2.png
+Image "image4.png" regenerated for "" medium: Resources\Images\Syndication\image4.png
+Image "SCR_QASyndication.png" regenerated for "" medium: Resources\Images\Syndication\SCR_QASyndication.png
+Image "SCR_SyndicatedContent.png" regenerated for "" medium: Resources\Images\Syndication\SCR_SyndicatedContent.png
+Processing CSS: Resources\Stylesheets\contactform.css...
+Processing CSS: Resources\Stylesheets\MainStyles.css...
+Processing CSS: Resources\Stylesheets\prism.css...
+Processing CSS: Resources\Stylesheets\StylesForHomePage.css...
+Processing CSS: Resources\TableStyles\Basic.css...
+Processing CSS: Resources\TableStyles\PatternedRows.css...
+Processing CSS: Resources\TableStyles\PatternedRowsOnDarkBackground.css...
+Processing CSS: Resources\TableStyles\Simple.css...
+Processing CSS: Resources\TableStyles\SimpleWithPadding.css...
+Processing CSS: Resources\TableStyles\Standard.css...
+Processing CSS: Resources\TableStyles\StandardOnDarkBackground.css...
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Link Integration 18.3.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Storefront Reference Architecture 18.2.0.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling/Bizaarvoice CAPP.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling/Product Sampling.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling Campaigns/Sweepstakes &amp; Sampling Badging.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling Campaigns/Track a Campaign.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Google Product Listing Ads.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Organic Search Results.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Seller Ratings.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/Search Engine 101.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/Search Engine Optimization (SEO).htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/SEO FAQ.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Share to Social/Share to Social.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify FAQs.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify Installation Guide.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify Manual Installation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Essential Social.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/In Real Life.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Premium Social.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Social Collection.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Social Suite.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Account Setup.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Adding Seller Ratings.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Post Purchase Email.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Users.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up Collect Email.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Content Display.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Review Display.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plan Overview.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plans.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Status Screen.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Testing Your Code &amp; Going Live.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Write-A-Review Page Creation.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Moving Reviews from One Product to Another.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Obtaining Average Star Rating Values.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Information Security Policy.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Password Policy.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Platform Support Offerings.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Support.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Q&amp;A Import Process.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Review Import Process.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Support FAQs.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Transitioning from your Current Reviews Provider.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Two Factor Authentication.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Product Matching.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Q&amp;A Syndication.htm.
+Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Syndication.htm.
+Generating output files...
+Processing topic: What's New\What's New.htm...
+Applying master page OtherTopics.flmsp...
+Generated What's New\What's New.htm
+Processing topic: What's New\Changelog.htm...
+Applying master page OtherTopics.flmsp...
+Generated What's New\Changelog.htm
+Processing topic: What's New\Deprecated Functionality.htm...
+Applying master page OtherTopics.flmsp...
+Generated What's New\Deprecated Functionality.htm
+Processing topic: Getting Started APIs\Getting Started.htm...
+Applying master page OtherTopics.flmsp...
+Generated Getting Started APIs\Getting Started.htm
+Processing topic: Getting Started APIs\Requesting an API Key.htm...
+Applying master page OtherTopics.flmsp...
+Generated Getting Started APIs\Requesting an API Key.htm
+Processing topic: Getting Started APIs\Third Party API Integration.htm...
+Applying master page OtherTopics.flmsp...
+Generated Getting Started APIs\Third Party API Integration.htm
+Processing topic: Write API\Write API.htm...
+Applying master page OtherTopics.flmsp...
+Generated Write API\Write API.htm
+Processing topic: Write API\Use Cases.htm...
+Applying master page OtherTopics.flmsp...
+Generated Write API\Use Cases.htm
+Processing topic: Write API\iOvation.htm...
+Applying master page OtherTopics.flmsp...
+Generated Write API\iOvation.htm
+Processing topic: Read API\Read API.htm...
+Applying master page OtherTopics.flmsp...
+Generated Read API\Read API.htm
+Processing topic: Read API\Use Cases.htm...
+Applying master page OtherTopics.flmsp...
+Generated Read API\Use Cases.htm
+Processing topic: Home.htm...
+Applying master page HomePage.flmsp...
+Generated Home.htm
+Processing topic: debug_cpub.html...
+Applying master page OtherTopics.flmsp...
+Generated debug_cpub.html
+Processing topic: Contact Us.htm...
+Applying master page HomePage.flmsp...
+Generated Contact Us.htm
+Processing topic: Search.htm...
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
+Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png
+Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png
+Applying master page OtherTopics.flmsp...
+Generated Search.htm
+Processing topic: debug_gas.html...
+Applying master page OtherTopics.flmsp...
+Generated debug_gas.html
+Generating output skins...
+Generating synonyms file...
+Generating alias file...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Generating Template Topics...
+Generating Search1.htm...
+Topic marked 'not searchable': Search1.htm...
+Applying master page OtherTopics.flmsp...
+Generated Search1.htm
+Resolving links in output files...
+Generating Search Database...
+Writing search entry cache...
+Generating final output...
+Generated Default.htm
+Saving result set...
+Ignored Compiler Warnings: 7
+Output generated in 22 second(s).
+
+Done
+Saving log to "C:\Users\Temp-Tech-Writer\Documents\My Projects\PowerReviews API Documentation\Output\Temp_Tech_Writer\Online Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+    </Warnings>
+    <Errors />
+</MadCapLog>
