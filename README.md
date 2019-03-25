@@ -15,6 +15,4 @@ References:
 * https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
 
 ## Publishing
-TBD - file contents need to be copied to s3://develtopers.powerreviews.com (need to create script to automate S3 copy, and restructuring files to be hosting friendly).
-
-
+The repo is automatically synced to the developers.powerreviews.com S3 bucket using GitHub Actions. This is kicked off automatically with every "push" to the repo. The old Jenkins publishing job has been disabled. This has been implemented per Jira ticket IT-5788.
