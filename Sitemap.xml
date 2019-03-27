@@ -13,16 +13,10 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Basic.css</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Read API.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/css.js</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnapshot_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Deprecated Functionality.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_TheProduct.png</loc>
@@ -43,10 +37,10 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AnswersOverTimeReport.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.docx - Google Docs.pdf</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Changelog.htm</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/iOvation.htm</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.docx - Google Docs.pdf</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign1.png</loc>
@@ -91,13 +85,7 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation2_thumb_0_375.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Requesting an API Key.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/Sep-28-2018 11-18-16.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation_thumb_0_375.png</loc>
@@ -154,9 +142,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Contact Us.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentContainer.png</loc>
     </url>
     <url>
@@ -184,10 +169,10 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_OrderTabEmailManager.PNG</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/search-icon.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/search-icon.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOOOB.png</loc>
@@ -253,9 +238,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MSQDisplay_thumb_0_375.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Getting Started.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplay.png</loc>
     </url>
     <url>
@@ -266,9 +248,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Write API.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/group-proj.jpg</loc>
@@ -328,6 +307,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_PreviewEmail_thumb_0_475.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Deprecated Functionality.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started.png</loc>
     </url>
     <url>
@@ -341,9 +323,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFilters_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Home.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayContainers.PNG</loc>
@@ -391,7 +370,7 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MediaOnlyFirstScreen_thumb_0_450.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit_200x200.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/MasterPages/HomePage.flmsp</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Dashboard_thumb_0_375.png</loc>
@@ -424,9 +403,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFaceoff.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerSettingsv2_thumb_0_450.png</loc>
     </url>
     <url>
@@ -454,6 +430,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDashboard.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings_200x200.png</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/search-results.png</loc>
     </url>
     <url>
@@ -464,6 +443,9 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_ShopExperience_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Third Party API Integration.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_OrderConfirmationExample_thumb_0_400.png</loc>
@@ -535,6 +517,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CategorySnippet.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/DGM_ReviewCycle.png</loc>
     </url>
     <url>
@@ -559,6 +544,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_Sizefitsnippet_thumb_0_350.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Use Cases.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyInstall_thumb_0_375.png</loc>
     </url>
     <url>
@@ -575,9 +563,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CondensedReviewList_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Third Party API Integration.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCreate_thumb_0_375.png</loc>
@@ -649,6 +634,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Use Cases.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDisplay.png</loc>
     </url>
     <url>
@@ -670,7 +658,7 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/GIF_ConfigForm.gif</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/MasterPages/HomePage.flmsp</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Requesting an API Key.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image05.png</loc>
@@ -760,9 +748,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport_thumb_0_300.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Changelog.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyLogo_450x143.jpg</loc>
     </url>
     <url>
@@ -784,6 +769,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayRender_thumb_0_400.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Contact Us.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TagReporting.png</loc>
     </url>
     <url>
@@ -794,9 +782,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearchWarm_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings_200x200.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CheckoutBeaconManager.PNG</loc>
@@ -811,6 +796,12 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/iOvation.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_gas.html</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOControlled.png</loc>
     </url>
     <url>
@@ -821,9 +812,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Use Cases.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnippet.png</loc>
@@ -848,6 +836,9 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryCode.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Write API.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_AverageRating.PNG</loc>
@@ -904,6 +895,12 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistogram.PNG</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_cpub.html</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Read API.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5)_thumb_0_400.png</loc>
     </url>
     <url>
@@ -940,6 +937,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyPWR.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code_200x200.png</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationCode_thumb_0_275.png</loc>
     </url>
     <url>
@@ -961,9 +961,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WARExamplePlacement_thumb_0_400.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Use Cases.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadv1.PNG</loc>
     </url>
     <url>
@@ -982,10 +979,10 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Simple.css</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/GIF_Screen Recording_progressive_thumb_0_350.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Getting Started.htm</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code_200x200.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/GIF_Screen Recording_progressive_thumb_0_350.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerv2.PNG</loc>
@@ -995,9 +992,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/prism.js</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v1.xsd</loc>
@@ -1013,6 +1007,9 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Portal 2.0/channels.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication.png</loc>
@@ -1063,9 +1060,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Account1.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_cpub.html</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuyDisplay_thumb_0_450.png</loc>
     </url>
     <url>
@@ -1100,6 +1094,9 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCustomize.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Home.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport_thumb_0_300.png</loc>
@@ -1144,6 +1141,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5).png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit_200x200.png</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSummaryCode.png</loc>
     </url>
     <url>
@@ -1177,7 +1177,7 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_UnModerated_thumb_0_450.jpg</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_gas.html</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/image3.png</loc>
