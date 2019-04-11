@@ -224,6 +224,17 @@ paths:
           type: integer
           format: int32
           description: The review where you want to start returning Product Reviews from. If you want reviews from page one, omit this parameter. 
+        - name: sort
+          in: query
+          required: false
+          type: string
+          enum:
+            - HighestRating
+            - LowestRating
+            - MostHelpful
+            - Oldest
+            - Newest
+          description: The order in which you want to return your Product Reviews. Acceptable fields include LowestRating, HighestRating, MostHelpful, Oldest, Newest.
         - name: updated_date_query
           in: query
           required: false
