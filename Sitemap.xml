@@ -1,70 +1,553 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (3).png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_QuestionCard_thumb_0_450.jpg</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Write API.htm</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Third Party API Integration.htm</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerFTP.PNG</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewsFromEmail_thumb_0_450.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount_thumb_0_375.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Basic.css</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/pr-logo.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/css.js</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuyDisplay_thumb_0_450.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Requesting an API Key.htm</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Contact Us.htm</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnapshot_thumb_0_400.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings_200x200.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_TheProduct.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_PreviewEmail_thumb_0_400.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuy.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation2.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/favicon.ico</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_AnswerCard.jpg</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v3.xsd</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewerCountsByWeek_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/ShareToSocial2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EditEmails_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v2.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5).png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyPWR.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_TaggedObservation_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code_200x200.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_ShopExperience_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayContainers.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/SCR_SalesforceLogo_250x157.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/Moderation-Alerts.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_OrganicSearchResults_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_AverageRating.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentContainer_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/SC_PostLoginNewStream.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CodeSnippet.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewVolume.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACustomizeEmail.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/SC_Choose_Insta_2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSummaryCode_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AllReviewsByType.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageDetails_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/SCR_SyndicatedContent_thumb_0_475.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Simple.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerv2_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewerTypeDetail_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_SSP_WARTestNoReviews_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Use Cases.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnapshot_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_OrganicSearchResults.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_SimpleSnapshot.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/iOvation.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image10.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_GooglePLA.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayInitialize.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_EditUsers_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Error.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Promos/SCR_SwepstakesCallout_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistogram.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/Sep-28-2018 11-18-16.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_QAVolumeReport_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image3.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot_thumb_0_600.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOOOB.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TagReporting_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuy_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/GIF_ConfigForm.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationCode_thumb_0_275.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_LongWidget.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/group-proj.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image11.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationCode.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryExample.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/common.js</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/search-icon.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_VideoCard_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_UnansweredQuestionReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/Screen Shot 2018-05-08 at 3.54.52 PM.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-no-sidebar.svg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RASetUp_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/image3.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SalesInfluenceReport_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_MiniWidget.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerSettingsv2_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Account1.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v1.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TagReporting.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ModerationAlertsGif1.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MSQDisplay_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCustomize.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_RYP_thumb_0_375.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AnswersOverTimeReport.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image1.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.docx - Google Docs.pdf</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign1.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFilters.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_SSP_WARTest_thumb_0_400.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Medium.otf</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCustomize_thumb_0_375.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_QuestionCard.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_SearchFields_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TimeToAnswerReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_Channels_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ImageCard_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_PreviewEmail_thumb_0_475.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistorgram_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Badges/SCR_VerifiedBuyer.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearch_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_OldMediaGallery_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (4).png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestContentDisplay_thumb_0_400.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/review-display.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search.htm</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ImageCard.jpg</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image5.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCustomize_thumb_0_375.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewerCountsByWeek_thumb_0_400.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation2_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Error_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ImportStatuses.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Requesting an API Key.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/MasterPages/HomePage.flmsp</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayInitialize_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_UnModerated_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnapshot_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Read API.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/prism.js</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_WriteAReviewD4.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CategorySnippet.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayExampleD4.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryCode.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_BrandPerformanceReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CategoryPerformance.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_ShopExperience.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnapshot.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnippet.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_EmailReports_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_VerticalPagination_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_VideoCard.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReportSettings.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image10.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewCard_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AnswersOverTimeReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Debut.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReportSettings_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Deprecated Functionality.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount1_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuyDisplay_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_NetworkReviews_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Regular.otf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color.svg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/SimpleWithPadding.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectWriteAReview_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SalesInfluenceReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (1).png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationDetails.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistorgram.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QandA_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplay_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuy.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ShowServiceComments.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_EditCode.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectWriteAReview.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/brandontext-bold.ttf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image4.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_OrderTabEmailManager.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewVolumeReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.pdf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyThemes.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryWithoutReviews.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CreateUser.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerURL.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v3.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Black.otf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetAfter.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/filter-icon.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SummaryContentContainers.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_QuestionCard_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/write-a-review.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_SSP_WARTest_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/DGM_Syndication_thumb_0_475.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACreateOrderFeed.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerSettingsv2.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_gas.html</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_BrandPerformanceReport_thumb_0_300.png</loc>
@@ -73,1131 +556,648 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/StylesForHomePage.css</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerFTP_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CategoryPerformance_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectWriteAReview_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/SC_PostLoginNewStream.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerFTP.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation2_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Read API.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/Sep-28-2018 11-18-16.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_ShopExperience.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayContainers_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image8.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Error_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestContentDisplay_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_SimpleSnapshot.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/standardista-table-sorting.js</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v2.xsd</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_EditCode.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Pricing_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_UnansweredQuestionReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_GooglePLA.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadManager.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentContainer.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ShareToAmazon.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_VideoCard.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (4).png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/SCR_QASyndication_890x308.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-dark.svg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/documentation-home-header.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_OrderTabEmailManager.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/search-icon.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOOOB.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/PatternedRows.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_EmailReports.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ratings-and-reviews.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippet.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewCard_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationCode.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACreateOrderFeed_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_QuestionCard.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_cpub.html</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color.svg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews SRA.pdf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/What's New.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuyDisplay_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplay_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Search.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistorgram_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Regular.otf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerURL.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewCard.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Changelog.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MSQDisplay_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Standard.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image7.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code_200x200.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/group-proj.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ShortWidget.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_EditMerchantResponse_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/iOvation.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewVolumeReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_UnansweredQuestionReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearchWarm.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/brandontext-bold.ttf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QuestionService_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started_200x201.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/progressive.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews SRA.docx - Google Docs.pdf</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayExampleD4_thumb_0_375.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyPWR_thumb_0_400.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyThemes.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/alerts1.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Error.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/pr-logo.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_SimpleSnapshot_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_PreviewEmail_thumb_0_475.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReportSettings_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image10.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_AnswerCard.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFilters_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayContainers.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CreateUser_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SetUpContentDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/StandardOnDarkBackground.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentContainer_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/self-service.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ImageCard_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation-Alerts.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image3.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/SCR_MagentoLogo.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationReporting.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyThemes_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MediaOnlyFirstScreen_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Dashboard_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image12.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ShowServiceComments.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReportSettings.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_BrandPerformanceReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSummaryCode_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Contact Us.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnapshot.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/pr-documentation-logo.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CreateAccount.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFaceoff.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerSettingsv2_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_GooglePLA_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyFAQ.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyFAQ_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/Screen Shot 2018-05-08 at 3.54.52 PM.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACustomizeEmail_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_AuthenticationLogIn.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDashboard.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/search-results.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ModerationAlertsGif1.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image06.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_ShopExperience_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_OrderConfirmationExample_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectMapping_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot_thumb_0_600.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MSQWAR_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CreateAccount_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetBefore_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ShowServiceComments_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit_200x200.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v2.xsd</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/contactform.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestDisplay_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestContentDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayInitialize_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewsFromEmail.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerv2_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/SCR_SalesforceLogo_250x157.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectMapping.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayInitialize.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_OldMediaGallery_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Badges/SCR_VerifiedBuyer.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CategorySnippet.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/DGM_ReviewCycle.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_NetworkReviews_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_EditUsers.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Write API.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ImportStatuses.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-no-sidebar.svg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_600.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CategoryPerformance.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_Sizefitsnippet_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyInstall_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_AskAQuestion.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayRender.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/GIF_DashToConfig.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CondensedReviewList_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCreate_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount1_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_VerticalPagination_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/SimpleWithPadding.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QandA_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CategorySnippet_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image20.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CodeSnippet.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TimeToAnswerReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (3)_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RASetUp_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/favicon-16x16.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_WriteAReviewD4_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image4.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SalesInfluenceReport_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationDetails_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SummaryContentContainers.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewerTypeDetail_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EditEmails_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/SCR_SyndicatedContent_thumb_0_475.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearch_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Light.otf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image6.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/GIF_ConfigForm.gif</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image05.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image1.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/questions-and-answers.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuy_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_MiniWidget.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SummaryContentContainers_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Home.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/MasterPages/HomePage.flmsp</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TagReporting_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryWithoutReviews.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnapshot_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewNoObservation_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_OrderConfirmationExample.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings_200x200.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetBefore.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CreateUser.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/write-a-review.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewVolume.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TimeToAnswerReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Write API/Use Cases.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_TaggedObservation_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_VideoCard_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Badges/SCR_VerifiedBuyer_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_TheProduct_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ImageCard.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManager.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Getting Started.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/Screen Shot 2018-05-08 at 3.55.52 PM.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/image5-1400x896.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_AverageRating_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image10.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetAfter.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Promos/SCR_SwepstakesCallout_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyLogo_450x143.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v1.xsd</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerSettingsv2.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/questions-and-answers_200x200.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Medium.otf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayRender_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TagReporting.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_LongWidget.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_WriteAReviewD4.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearchWarm_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CheckoutBeaconManager.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/pasted image 0.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AllReviewsByType.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOControlled.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACreateOrderFeed.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/q-and-a.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnippet.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_OrganicSearchResults.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ImageGallery.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFiltersScenario_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectWriteAReview.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnapshot.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_Channels.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryCode.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_AverageRating.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageDetails_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/DGM_Syndication_thumb_0_475.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageDetails.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_QAVolumeReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyInstall.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewVolume_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_SearchFields.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ratings-and-reviews_200x200.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/filter-icon.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_QAVolumeReport_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDisplay_thumb_0_475.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Black.otf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.pdf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ImageGallery_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Dashboard.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFaceoff_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistogram.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5)_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationExample.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadv1_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v3.xsd</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Debut.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryExample_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationDetails.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/prism.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/syndication.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/alerts2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyPWR.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationCode_thumb_0_275.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Social Collection/SC_Choose_Insta_2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/implementation.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryExample.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ImportStatuses_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_EmailReports_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WARExamplePlacement_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadv1.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AnswersOverTimeReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Bold.otf</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Simple.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/GIF_Screen Recording_progressive_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerv2.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_SearchFields_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/prism.js</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_complete v1.xsd</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/analytics.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QuestionService.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image11.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Portal 2.0/channels.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/MainStyles.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (2).png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/ShareToSocial2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_SSP_WARTestNoReviews_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_gas.html</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentDisplay.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/test</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_AnswerCard_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayExampleD4.PNG</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_CheckoutBeaconNew.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/Moderation-Alerts.gif</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Portal 2.0/Status.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFilters.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACustomizeEmail.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Account1.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_WhyDidYouBuyDisplay_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewVolumeReport.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCreate.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_EditCode_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ScheduleEmails_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_OrganicSearchResults_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (1).png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_Channels_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/common.js</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_AuthenticationLogIn_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SetUpContentDisplay_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCustomize.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SalesInfluenceReport_thumb_0_300.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayExampleD4_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-mobile.svg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ScheduleEmails.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerURL_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_only_color-mobile.svg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount1.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EditEmails.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_NewMediaGallery_thumb_0_350.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_NetworkReviews_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RASetUp.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5).png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSummaryCode.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ShareToAmazon_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_EditUsers_thumb_0_450.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication2.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentDisplay_thumb_0_375.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_PreviewEmail_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Promos/SCR_PromoSmallCallout.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Use Cases.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image11.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image9.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_UnModerated_thumb_0_450.jpg</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Deprecated Functionality.htm</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/image3.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/moderation.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ClickableHistorgram.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (4)_thumb_0_400.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManager_thumb_0_450.png</loc>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewVolumeReport_thumb_0_300.png</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/post-purchase-email.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyLogo_450x143.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentContainer.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearchWarm.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QuestionService_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/PatternedRows.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/pasted image 0.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started_200x201.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Read API/Use Cases.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerURL_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ShareToAmazon.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_UnansweredQuestionReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CondensedReviewList_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ratings-and-reviews_200x200.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/Changelog.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CreateUser_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyThemes_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/q-and-a.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CategoryPerformance_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_TimeToAnswerReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/progressive.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount1.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ScheduleEmails.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Bold.otf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/SCR_MagentoLogo.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_AuthenticationLogIn.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews LINK.docx - Google Docs.pdf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_NetworkReviews_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippet.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v1.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image20.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_QAVolumeReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayContainers_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/MainStyles.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Syndication/SCR_QASyndication_890x308.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/alerts2.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/analytics.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_TheProduct.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MSQWAR_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestContentDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetBefore.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_SimpleSnapshot_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_OrderConfirmationExample.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_EditMerchantResponse_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSearchWarm_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_InitializationExample.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Badges/SCR_VerifiedBuyer_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/DGM_ReviewCycle.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_Pricing_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/documentation-home-header.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerFTP_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_settings.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Basic.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SummaryContentContainers_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewCard.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/GIF_DashToConfig.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image6.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCreate.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Dashboard_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-dark.svg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_AverageRating_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSnapshot.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_code.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/Standard.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadManager.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyInstall_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/questions-and-answers_200x200.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFaceoff.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/prism.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACreateOrderFeed_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Stylesheets/contactform.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (4)_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ShortWidget.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ShareToAmazon_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Getting Started.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewSummaryContentDisplay_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Google/SCR_GooglePLA_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_SearchFields.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image7.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyCreate_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/search-results.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Getting Started APIs/Third Party API Integration.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/css.js</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Search.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/image5-1400x896.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManager_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CreateAccount_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/implementation.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_TheProduct_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (2).png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image8.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Promos/SCR_PromoSmallCallout.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/syndication.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewSummaryExample_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_NewMediaGallery_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EditEmails.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SetUpContentDisplay.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image12.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit_200x200.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign1.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/GIF_Screen Recording_progressive_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_EditUsers.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/questions-and-answers.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDashboard.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_CreateAccount.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-mobile.svg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/What's New/What's New.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ImageGallery.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationDetails_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetBefore_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_AnswerCard_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_OrderConfirmationExample_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_CheckoutBeaconNew.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_CustomerReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_600.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_MediaOnlyFirstScreen_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ImportStatuses_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/self-service.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WAR_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RASetUp.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadv1_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_SyndicationReporting.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ImageGallery_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (3)_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ProductPerformanceReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_EmailReports.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample_thumb_0_350.png</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Promos/SCR_PromoLargeCallout.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewDisplayExample_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image06.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewsFromEmail.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CheckoutBeaconManager.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_QuestionService.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewVolume_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Moderation.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/pr-documentation-logo.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/alerts1.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/icon_secondary_technology-tools_edit.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_only_color-mobile.svg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_Dashboard.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_Shopify_EditCode_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/SEO/SCR_SEOControlled.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image11.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ReviewNoObservation_thumb_0_450.jpg</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ContentDisplayRender.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_ManualUploadv1.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display 3/image05.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Review Accelerator/SCR_RACustomizeEmail_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_AnswersOverTimeReport_thumb_0_300.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewDisplayRender_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/favicon-16x16.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/Screen Shot 2018-05-08 at 3.55.52 PM.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/TableStyles/StandardOnDarkBackground.css</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Icons/moderation.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/favicon.ico</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectMapping.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_ShowServiceComments_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManager.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews SRA.pdf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Q&amp;A/SCR_AskAQuestion.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/ratings-and-reviews.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageDetails.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSummaryCode.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyInstall.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_AuthenticationLogIn_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ScheduleEmails_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Analytics &amp; Insights/SCR_ReviewCoverageReport.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Home.htm</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/SCR_MOD_Channels.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Fonts/BrandonText-Light.otf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_ReviewsFromEmail_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (3).png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v3.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/debug_cpub.html</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFiltersScenario_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_Sizefitsnippet_thumb_0_350.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyFAQ.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_WriteAReviewD4_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Collect/SCR_WARExamplePlacement_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_PostPurchaseEmailManagerv2.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/brandengage/test</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFilters_thumb_0_450.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Javascripts/standardista-table-sorting.js</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image5.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_CategorySnippet_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/image9.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/unnamed (5)_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_ReviewFaceoff_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_TestDisplay_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation-Alerts.gif</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyFAQ_thumb_0_375.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Magento/PowerReviews SRA.docx - Google Docs.pdf</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Template Mapping/SCR_SelectMapping_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/review_data_summary v2.xsd</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_SetUpContentDisplay_thumb_0_400.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyDisplay_thumb_0_475.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Portal 2.0/channels.png</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifySnapshot.png</loc>
     </url>
 </urlset>
