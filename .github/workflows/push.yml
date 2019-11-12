@@ -1,14 +1,13 @@
-on: push
 name: deploy help site
+on: 
+  push:
+    branches:
+      - master
 jobs:
-  is-master:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: is-master
-      uses: actions/bin/filter@master
-      with:
-        args: branch master
     - name: deploy
       uses: actions/aws/cli@master
       env:
