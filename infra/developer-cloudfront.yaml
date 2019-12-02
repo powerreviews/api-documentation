@@ -1,0 +1,50 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: "Cloudfront Distribution for developers helpsite assets"
+
+Resources:
+  DevelopersDistribution:
+    Type: AWS::Cloudfront::Distribution
+    Properties:
+      Tags:
+        - Key: name
+          Value: developers-cdn
+        - Key: app
+          Value: developers
+        - Key: role
+          Value: cdn
+      DistributionConfig:
+        Enabled: true
+        Comment: "Developers.powerreviews.com Assets"
+        Aliases:
+          - developers.powerreviews.com
+        DefaultRootObject: "Default.htm"
+        Origins:
+          -
+            Id: "S3-developers.powerreviews.com"
+            DomainName: developers.powerreviews.com.s3.amazonaws.com
+            S3OriginConfig:
+              OriginAccessIdentity: "origin-access-identity/cloudfront/E1NTYBWDUDNWIV"
+        DefaultCacheBehavior:
+          TargetOriginId: "S3-developers.powerreviews.com"
+          ForwardedValues:
+            QueryString: false
+          ViewerProtocolPolicy: "redirect-to-https"
+          AllowedMethods:
+            - HEAD
+            - GET
+          CachedMethods:
+            - HEAD
+            - Get
+          MinTTL: 0
+          DefaultTTL: 600
+          MaxTTL: 31536000
+          Compress: false
+          SmoothStreaming: false
+        PriceClass: PriceClass_All
+        ViewerCertificate:
+          IamCertificateId: "ASCAIEMPKD3HJRTTKAAXC"
+          SslSupportMethod: "sni-only"
+          MinimumProtocolVersion: "TLSv1"
+        HttpVersion: "http2"
+        IPV6Enabled: true
+
