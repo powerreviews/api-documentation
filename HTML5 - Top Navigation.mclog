@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2017 r3 Generated Online Output/HTML5 - Top Navigation.fltar" Date="2019-04-25T14:50:06.3217701-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 r3 Generated Online Output/HTML5 - Top Navigation.fltar" Date="2019-12-04T20:09:57.3395893-05:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -10,120 +10,120 @@ Processing Master TOC...
 Generating Glossary...
 Collecting source files...
 Processing source files...
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Alerts.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/All Reviews.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Brands.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Category Reports.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Conversion Report.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Customers.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Emails.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Observation Codes Reference Guide.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Products.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Question &amp; Answer Reports.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage &amp; Reviewer Type.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Volume.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Sales Influence.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Syndication Reports.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Tag Reports.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Updates to Reports Columns.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Analytics &amp; Insights/Working with Reports.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/PowerReviews APIs.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Product Answers API.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Product Answers.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Read Services API.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Write API.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/APIs/Write Reviews API.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Account.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Alerts.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Channels.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Professional.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Engage/Brand Engage.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/Direct Syndication.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/Product Data.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Brand Network Integration/UGC Integration.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Custom Questions.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Merchant Specific Questions.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Premium Collection.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Review Your Purchases.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Visual Content Collection.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect/Write-a-Review.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Checkout Beacon.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Collect Email.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Order Feed.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Collect Email/Product Status.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Alternative Media Gallery.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Apparel and Footwear Look and Feel.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Badges.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Category Snippets.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Demographic Information.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Image Gallery.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Page IDs and Variants.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Display Configurations.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Display.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Search and Filtering.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Review Snapshot.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display/Share to Amazon.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Adding Code to your Product Page.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Badges in Display 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Collect 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Customizing the Product Page Review Snippet Based on Review Count.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Display 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Integrating In-Line SEO.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Standard Implemenation and Readiness for Display 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Styling Collect 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Styling Display 3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Upgrading from Display 3 and Older.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Display 3/Write A Review Page Code.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Determine Your PowerReviews Version.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Getting Started with PowerReviews.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Known Issues.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Release Notes.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/Upgrading.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Getting Started/What's new.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Implementation/Implementation Kick Off.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Implementation/Implementation Overview.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Analytics &amp; Insights.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/PowerReviews Integrations.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/PowerReviews Policies.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Products.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Ratings and Reviews.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Resources.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Services.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Landing pages/Training Webinars.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Magento/Magento.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Magento/Salesforce.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Custom Moderation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/iOvation Validation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Locale Support &amp; Moderation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Images &amp; Videos.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Q&amp;A.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderating Reviews.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation &amp; Observations.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation Alerts.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/Moderation Search, Channels, and Worklists.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/ModerationAlerts.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/PowerReviews Moderation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Moderation/QuestionAssignment.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/Content ZIPs.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/Customizing Your PowerReviews Platform.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/JavaScript Reference Guide.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/PowerReviews Platform.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Platform/XML Schema.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Authenticity Policy.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Moderation Policy.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Policies/Sweepstakes Rules.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Feedless.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Google Merchant Product Feed.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Product Catalog.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Product Feed.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Product Catalog/Template Mapping.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion Calendar.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Promotions/Promotional Graphics.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Question Forms.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Questions &amp; Answers.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Questions &amp; Answers/Why Did You Buy.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Alerts.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/All Reviews.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Brands.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Category Reports.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Conversion Report.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Customers.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Emails.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Observation Codes Reference Guide.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Products.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Question &amp; Answer Reports.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage &amp; Reviewer Type.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Coverage.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Review Volume.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Sales Influence.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Syndication Reports.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Tag Reports.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Updates to Reports Columns.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Analytics &amp; Insights/Working with Reports.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/PowerReviews APIs.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/Product Answers API.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/Product Answers.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/Read Services API.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/Write API.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/APIs/Write Reviews API.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Account.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Alerts.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Channels.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Engage/Brand Engage Professional.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Engage/Brand Engage.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Network Integration/Direct Syndication.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Network Integration/Product Data.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Brand Network Integration/UGC Integration.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Custom Questions.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Merchant Specific Questions.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Premium Collection.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Review Your Purchases.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Visual Content Collection.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect/Write-a-Review.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect Email/Checkout Beacon.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect Email/Collect Email.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect Email/Order Feed.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Collect Email/Product Status.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Alternative Media Gallery.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Apparel and Footwear Look and Feel.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Badges.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Category Snippets.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Demographic Information.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Image Gallery.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Page IDs and Variants.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Review Display Configurations.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Review Display.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Review Search and Filtering.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Review Snapshot.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display/Share to Amazon.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Adding Code to your Product Page.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Badges in Display 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Collect 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Customizing the Product Page Review Snippet Based on Review Count.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Display 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Integrating In-Line SEO.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Standard Implemenation and Readiness for Display 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Styling Collect 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Styling Display 3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Upgrading from Display 3 and Older.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Display 3/Write A Review Page Code.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/Determine Your PowerReviews Version.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/Getting Started with PowerReviews.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/Known Issues.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/Release Notes.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/Upgrading.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Getting Started/What's new.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Implementation/Implementation Kick Off.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Implementation/Implementation Overview.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Analytics &amp; Insights.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/PowerReviews Integrations.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/PowerReviews Policies.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Products.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Ratings and Reviews.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Resources.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Services.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Landing pages/Training Webinars.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Magento/Magento.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Magento/Salesforce.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Custom Moderation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/iOvation Validation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Locale Support &amp; Moderation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderating Images &amp; Videos.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderating Q&amp;A.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderating Reviews.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderation &amp; Observations.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderation Alerts.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/Moderation Search, Channels, and Worklists.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/ModerationAlerts.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/PowerReviews Moderation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Moderation/QuestionAssignment.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Platform/Content ZIPs.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Platform/Customizing Your PowerReviews Platform.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Platform/JavaScript Reference Guide.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Platform/PowerReviews Platform.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Platform/XML Schema.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Policies/Authenticity Policy.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Policies/Moderation Policy.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Policies/Sweepstakes Rules.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Product Catalog/Feedless.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Product Catalog/Google Merchant Product Feed.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Product Catalog/Product Catalog.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Product Catalog/Product Feed.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Product Catalog/Template Mapping.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion Calendar.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Promotions/PowerReviews Sponsored Promotion.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Promotions/Promotional Graphics.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Questions &amp; Answers/Question Forms.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Questions &amp; Answers/Questions &amp; Answers.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Questions &amp; Answers/Why Did You Buy.htm.
 Image "ModerationAlertsGif.gif" regenerated for "" medium: Resources\Images\ModerationAlertsGif.gif
 Image "PR_Logo.png" regenerated for "" medium: Resources\Images\PR_Logo.png
 Image "SCR_ModerationAlerts.gif" regenerated for "" medium: Resources\Images\SCR_ModerationAlerts.gif
@@ -260,54 +260,54 @@ Processing CSS: Resources\TableStyles\Simple.css...
 Processing CSS: Resources\TableStyles\SimpleWithPadding.css...
 Processing CSS: Resources\TableStyles\Standard.css...
 Processing CSS: Resources\TableStyles\StandardOnDarkBackground.css...
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Link Integration 18.3.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Storefront Reference Architecture 18.2.0.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling/Bizaarvoice CAPP.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling/Product Sampling.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling Campaigns/Sweepstakes &amp; Sampling Badging.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Sampling Campaigns/Track a Campaign.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Google Product Listing Ads.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Organic Search Results.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Seller Ratings/Seller Ratings.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/Search Engine 101.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/Search Engine Optimization (SEO).htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/SEO/SEO FAQ.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Share to Social/Share to Social.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify FAQs.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify Installation Guide.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Shopify/Shopify Manual Installation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Essential Social.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/In Real Life.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Premium Social.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Social Collection.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Social Collection/Social Suite.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Account Setup.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Adding Seller Ratings.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Post Purchase Email.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Users.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up Collect Email.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Content Display.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Review Display.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plan Overview.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plans.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Status Screen.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Testing Your Code &amp; Going Live.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Standard and Business Plan/Write-A-Review Page Creation.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Moving Reviews from One Product to Another.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Obtaining Average Star Rating Values.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Information Security Policy.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Password Policy.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Platform Support Offerings.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/PowerReviews Support.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Q&amp;A Import Process.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Review Import Process.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Support FAQs.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Transitioning from your Current Reviews Provider.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Support Topics/Two Factor Authentication.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Product Matching.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Q&amp;A Syndication.htm.
-Excluded from output:file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Content/Syndication/Syndication.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Link Integration 18.3.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce Storefront Reference Architecture 18.2.0.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Salesforce Commerce Cloud/Salesforce.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Sampling/Bizaarvoice CAPP.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Sampling/Product Sampling.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Sampling Campaigns/Sweepstakes &amp; Sampling Badging.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Sampling Campaigns/Track a Campaign.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Seller Ratings/Google Product Listing Ads.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Seller Ratings/Organic Search Results.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Seller Ratings/Seller Ratings.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/SEO/Search Engine 101.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/SEO/Search Engine Optimization (SEO).htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/SEO/SEO FAQ.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Share to Social/Share to Social.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Shopify/Shopify FAQs.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Shopify/Shopify Installation Guide.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Shopify/Shopify Manual Installation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Social Collection/Essential Social.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Social Collection/In Real Life.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Social Collection/Premium Social.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Social Collection/Social Collection.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Social Collection/Social Suite.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Account Setup.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Adding Seller Ratings.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Post Purchase Email.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Managing Users.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up Collect Email.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Content Display.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Setting Up the Review Display.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plan Overview.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Standard and Business Plans.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Status Screen.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Testing Your Code &amp; Going Live.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Standard and Business Plan/Write-A-Review Page Creation.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Moving Reviews from One Product to Another.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Obtaining Average Star Rating Values.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/PowerReviews Information Security Policy.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/PowerReviews Password Policy.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/PowerReviews Platform Support Offerings.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/PowerReviews Support.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Q&amp;A Import Process.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Review Import Process.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Support FAQs.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Transitioning from your Current Reviews Provider.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Support Topics/Two Factor Authentication.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Syndication/Product Matching.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Syndication/Q&amp;A Syndication.htm.
+Excluded from output:file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Content/Syndication/Syndication.htm.
 Generating output files...
 Processing topic: What's New\What's New.htm...
 Applying master page OtherTopics.flmsp...
@@ -355,26 +355,26 @@ Processing topic: Contact Us.htm...
 Applying master page HomePage.flmsp...
 Generated Contact Us.htm
 Processing topic: Search.htm...
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
-Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png
-Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
+Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png
+Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png
 Applying master page OtherTopics.flmsp...
 Generated Search.htm
 Processing topic: debug_gas.html...
@@ -399,32 +399,32 @@ Generating final output...
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 7
-Output generated in 21 second(s).
+Output generated in 30 second(s).
 
 Done
-Saving log to "C:\Users\Temp-Tech-Writer\Documents\My Projects\PowerReviews API Documentation\Output\Temp_Tech_Writer\Online Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
+Saving log to "C:\Users\candeeh\Documents\My Projects\PowerReviews\EDITABLE\PowerReviews API Documentation\Output\candeeh\Online Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
 </Messages>
     <Warnings>
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
-        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/Temp-Tech-Writer/Documents/My Projects/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Favicons/favicon-16x16.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Components/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/foundation.6.2.3.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Styles.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Tablet.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Fluid/Stylesheets/Mobile.css" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/star-full.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/edit-profile.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/printer.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/expand.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
+        <LogEntry File="../../../../Content/Search.htm" Message="Link points outside project file:///C:/Users/candeeh/Documents/My Projects/PowerReviews/EDITABLE/PowerReviews API Documentation/Skins/Default/Stylesheets/Images/collapse.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
     </Warnings>
     <Errors />
 </MadCapLog>

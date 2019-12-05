@@ -180,6 +180,8 @@
                                             </li>
                                             <li value="2"><a href="#Customer">CRM&#160;Integration</a>
                                             </li>
+                                            <li value="3"><a href="#Read">Read API&#160;Rate Limiting</a>
+                                            </li>
                                         </ul>
                                         <p class="note">Read Services uses the read_services key.</p>
                                         <h2><a name="Top"></a>Top Reviews Widget</h2>
@@ -193,6 +195,11 @@
                                         <p><b>Third Page:</b>
                                         </p><pre><code class="language-html">https://readservices-b2c.powerreviews.com/m/512774/reviews?apikey=ec8f9acb-be0e-489b-a6ff-3eed3811025e&amp;date=1546322400000&amp;updated_date_query=true&amp;paging.size=10&amp;paging.from=20</code></pre>
                                         <p>For more information, see <a href="https://developers.powerreviews.com/Content/reference/read.html#/Reviews/getAllReviewsUsingGET" target="_blank">further documentation</a>.</p>
+                                        <h2><a name="Read"></a>Read API&#160;Rate Limiting</h2>
+                                        <p>On November 4, 2019, PowerReviews implemented "rate limiting" on our read API. If our API&#160;receives over 1800 calls from a single IP address within a 5 minute period, that IP&#160;address is blocked for a 5 minute period, until reassessment occurs. Should the excessive traffic continue, we will continue to block the IP&#160;address until the calls fall below the configured threshold. </p>
+                                        <p>To mitigate this, and to encourage faster and more efficient page loading, we highly recommend caching our API response, as opposed to calling it with each page load.</p>
+                                        <p>If you have any questions or run into any issues, please reach out to PowerReviews Technical Services.</p>
+                                        <p>&#160;</p>
                                     </div>
                                 </div>
                             </div>
