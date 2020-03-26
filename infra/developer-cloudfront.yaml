@@ -42,7 +42,7 @@ Resources:
           SmoothStreaming: false
         PriceClass: PriceClass_All
         ViewerCertificate:
-          IamCertificateId: "ASCAIEMPKD3HJRTTKAAXC"
+          AcmCertificateArn: "arn:aws:acm:us-east-1:903480711441:certificate/66e15d98-2488-4b89-b9f1-6144f1e297fb"
           SslSupportMethod: "sni-only"
           MinimumProtocolVersion: "TLSv1"
         HttpVersion: "http2"
