@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Two Factor Auth/SCR_Authentication_thumb_0_400.png</loc>
     </url>
     <url>
@@ -505,9 +502,6 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Display/SCR_VerticalPagination_thumb_0_400.png</loc>
     </url>
     <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
-    </url>
-    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_CreateUser_thumb_0_450.png</loc>
     </url>
     <url>
@@ -778,6 +772,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/getting-started.png</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.mcwebhelp</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/Legacy/SCR_SSP_ReviewSnippetBefore_thumb_0_400.png</loc>
     </url>
     <url>
@@ -1018,6 +1015,9 @@
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_SSP_EmailManagerSettings.PNG</loc>
     </url>
     <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Content/Search1.htm</loc>
+    </url>
+    <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Moderation/assign1.png</loc>
     </url>
     <url>
@@ -1049,9 +1049,6 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyAccount1.png</loc>
-    </url>
-    <url>
-        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Shopify/SCR_ShopifyWAR_thumb_0_400.png</loc>
@@ -1106,6 +1103,9 @@
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/Images/Self-Service Portal/SCR_RecurringFeedManagerFTP.PNG</loc>
+    </url>
+    <url>
+        <loc>http://help.powerreviews.com/Content/Home.htm/Default.htm</loc>
     </url>
     <url>
         <loc>http://help.powerreviews.com/Content/Home.htm/Content/Resources/svg/PR__Logo_color-dark.svg</loc>
