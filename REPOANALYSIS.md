@@ -1,37 +1,40 @@
 # api-documentation — RepoDocs
-_Generated on 2026-05-11_
+_Generated on 2026-05-11 · Consolidated on 2026-05-19 against commit ca5572b_
 
 ## Summary
 
 ### Overview
-`api-documentation` is a static documentation site for PowerReviews' public-facing customer APIs (Read Services and Write Services). It is a content-only repo — Swagger/OpenAPI specs plus a MadCap Flare-generated HTML help system — that publishes to the `developers.powerreviews.com` S3 bucket fronted by CloudFront. It is the canonical public reference for merchants integrating with the PowerReviews review/Q&A platform.
+`api-documentation` is the static publishing artifact for `developers.powerreviews.com` — the public OpenAPI/Swagger reference and MadCap Flare help center for PowerReviews' two customer-facing integration surfaces: the **Read Services B2C display API** (consumer storefront read path) and the **Write Services** UGC submission API (B2B review/Q&A/answer/merchant-response writes). It is a content-only repo owned by Technical Writing / Developer Experience, with no compute and no runtime dependencies — its only operational role is to be `aws s3 sync`'d to the `developers.powerreviews.com` S3 bucket on every push to `master`. Among the ~12 MadCap Flare / static doc repos in the org (`PWRDocumentation`, `Documentation-Output`, `PWRInternalDocs`, `InternalDocumentation-Output`, etc.), this is the only one that documents externally-callable customer APIs rather than internal help content.
+
+The "API Suite" → "Enterprise API" nav rename (commit `cdbd09e`, July 2020) appears to anticipate the EAPI surface that has since been documented entirely in Confluence/SharePoint (originally July 2020 in EAPI Account Management, revised Nov 2021, March 2024, May 2025, May 2026): an OAuth2 client-credentials, Cognito-backed B2B/Enterprise API surface (`b2b-api.powerreviews.com` / `enterprise-api.powerreviews.com`) fronted by API Gateway, with Lambda-backed account management and per-scope access to read/write/moderation/products/questions/orders endpoints. The rename was a forward-looking pointer that never received its corresponding YAML — the `developers.powerreviews.com` site is the most-likely intended publication target for the EAPI authorization documentation that currently lives only behind SSO in Confluence.
 
 ### Tech Stack
 | Category | Technology | Version |
 |----------|-----------|---------|
-| Language | HTML / JavaScript (static) | _N/A_ |
-| Framework | Swagger UI (static distribution) | _Not pinned (vendored under `swagger-ui/`)_ |
-| Framework | MadCap Flare WebHelp (HTML5 Top Navigation) | Build 13.3.6547.24746 (per `Default.mcwebhelp`) |
-| API Spec | OpenAPI / Swagger | 2.0 (per `api-specs/*.yaml`) |
-| Database | _None_ | _N/A_ |
-| Build Tool | `deploy.sh` bash script (legacy) + GitHub Actions workflow | _N/A_ |
-| CI/CD | GitHub Actions | `actions/checkout@master` |
-| Cloud/Infra | AWS S3 + CloudFront (CloudFormation: `infra/developer-cloudfront.yaml`) | _N/A_ |
+| Language | HTML / JavaScript (static, no build) | _N/A_ |
+| Framework | Swagger UI (vendored bundle) | unpinned, ~2020-era 3.x dist |
+| Framework | MadCap Flare WebHelp (HTML5 Top Navigation skin) | build 13.3.6547.24746 (2020-09-25) |
+| API Spec | OpenAPI / Swagger | 2.0 |
+| Build Tool | `aws s3 sync` (GH Actions) / legacy `deploy.sh` | _N/A_ |
+| CI/CD | GitHub Actions | `actions/checkout@master` (mutable) |
+| Cloud/Infra | AWS S3 + CloudFront + ACM (CloudFormation in `infra/`) | TLS minimum `TLSv1` |
 
 ### Consumers
 | Consumer | Type | How They Use It |
 |----------|------|----------------|
-| `developers.powerreviews.com` (public site) | External hosted asset | Site is sourced from this repo via GitHub Actions sync to S3 bucket `developers.powerreviews.com`. |
-| PowerReviews merchants / integrators | External humans | Browse Swagger UI and help content to learn how to call Read and Write APIs. |
-| AWS CloudFront distribution (origin `developers.powerreviews.com.s3.amazonaws.com`) | External infrastructure | Serves repo assets over HTTPS; defined in `infra/developer-cloudfront.yaml`. |
-| GitHub Actions runner | CI | Performs `aws s3 sync` on every push to `master` (`.github/workflows/push.yml`). |
-| Slack channel `github-token-scan` | External alerting | Notified by `secrets-scan.yml` when TruffleHog finds secrets. |
+| `developers.powerreviews.com` (CloudFront → S3) | Cloud Service | Hosts the rendered repo contents as the public developer portal. |
+| PowerReviews merchants / integrators | External humans | Read API specs and integration guides. |
+| GitHub Actions runner | CI System | Performs the deploy on push to `master`. |
+| Slack channel `github-token-scan` | External alerting | TruffleHog secret-scan failures via `rtCamp/action-slack-notify`. |
 
 ### Dependencies on Org Repos
 | Repo | Reason |
 |------|--------|
-| readservices-b2c | Documents that service's REST API; `readservices.yaml` declares `host: readservices-b2c.powerreviews.com`. |
-| write-services | Documents that service's REST API; `writeservices.yaml` declares `host: writeservices.powerreviews.com`. The repo also contains a `write-services/` subfolder. |
+| `readservices-b2c` | `api-specs/readservices.yaml` is the authoritative public contract for this Java/Spring backend (`host: readservices-b2c.powerreviews.com`); any path/param/response change there must be re-published here. |
+| `write-services` | `api-specs/writeservices.yaml` (+ `writeservices-bak.yaml`) and the `write-services/` landing page are the authoritative public contract for the Java write-path service (`host: writeservices.powerreviews.com`). |
+| `PWRDocumentation` / `Documentation-Output` | Sibling MadCap Flare doc pipeline for the customer help center (`help.powerreviews.com`). This repo is the developer counterpart — separate Flare project, separate S3 bucket, but shares the toolchain choice (and its staleness). |
+
+Note: the org-summary dependency map lists only `readservices-b2c` and `write-services` for this repo, which matches the code. No other org repo writes to `s3://developers.powerreviews.com` based on the IaC and external-footprint table.
 
 ### External Integrations
 | Service | Purpose | Integration Type |
@@ -52,11 +55,36 @@ _Generated on 2026-05-11_
 ### Upgrade Alerts
 | Dependency | Current Version | Issue | Severity |
 |-----------|----------------|-------|----------|
-| `actions/checkout` | `@master` (mutable ref, in both workflows) | Pinning to `@master` is unsupported by `actions/checkout` and is a supply-chain risk; `@master` no longer exists for newer versions. | Severe |
-| `edplato/trufflehog-actions-scan` | `@master` | Action is unmaintained / archived (no recent releases); using `@master` is a supply-chain risk. | Severe |
-| Swagger UI (vendored `swagger-ui/`) | Distribution copied from upstream `dist/`, version not pinned; last touched 2020 | Pre-Swagger-UI 4.x bundles have known XSS-class CVEs (e.g. CVE-2019-17495 in 3.x); files here date to the 2020-era distribution. | Critical |
-| MadCap Flare WebHelp output | Generated 2020-09-25 (build 13.3.6547.24746) | Output toolchain is 5+ years stale; included `jquery.min.js` and `modernizr` shims have well-known CVEs in versions of that era. | Severe |
-| CloudFront `MinimumProtocolVersion` | `TLSv1` (in `infra/developer-cloudfront.yaml`) | TLS 1.0/1.1 are deprecated by AWS; the value should be at least `TLSv1.2_2021`. | Severe |
+| Swagger UI (vendored under `swagger-ui/`) | Unpinned 3.x-era dist, last touched 2020 | Pre-4.x Swagger UI has documented XSS-class CVEs (e.g., CVE-2019-17495); the rendered site is public and serves an attacker-controllable spec URL pattern. | Critical |
+| `actions/checkout@master` (both workflows) | Mutable `@master` ref | `actions/checkout` no longer maintains a `master` branch on current majors; mutable refs are a supply-chain risk and may silently break the deploy. | Severe |
+| `edplato/trufflehog-actions-scan@master` | Unmaintained third-party action pinned to `@master` | Action is effectively abandoned; org-wide this same action is in use across 70+ repos (see external-dependency table) — concentrated supply-chain exposure. | Severe |
+| MadCap Flare WebHelp output (`jquery.min.js`, `modernizr`, generated JS) | 2020-09-25 generation, build 13.3.6547.24746 | 5+ year-old vendored JS shims with well-known CVE history; not patched on any cadence because the repo has zero commits since 2020. | Severe |
+| CloudFront `MinimumProtocolVersion` in `infra/developer-cloudfront.yaml` | `TLSv1` | AWS has deprecated TLS 1.0/1.1; should be at least `TLSv1.2_2021`. The sibling org CloudFront module `pwr-terraform-cloudfront` (used by 20+ repos) is the modern pattern this repo should adopt. | Severe |
+
+### Coupling Profile
+| Dependency | Protocol | Frequency Pattern | Failure Mode |
+|-----------|----------|-------------------|--------------|
+| `readservices-b2c` (org repo) | Documentation-only / spec file | Manual, batched (whenever an author updates `readservices.yaml`) | Soft — spec drift silently misleads integrators; runtime API is unaffected. |
+| `write-services` (org repo) | Documentation-only / spec file | Manual, batched | Soft — spec drift misleads integrators; runtime API is unaffected. |
+| AWS S3 (`developers.powerreviews.com`) | Object store via AWS CLI | Event-triggered (every push to `master`) | Hard — failed sync means the site doesn't update; no retry, no notification beyond GH Actions UI. |
+| AWS CloudFront | CDN in front of S3 origin | Per-request (viewer traffic), one-time provisioning via CFN | Soft — stale 600s TTL cache masks deploy failures briefly; no invalidation is issued by the deploy workflow. |
+| AWS ACM (us-east-1) | TLS certificate, referenced by CloudFront | Startup-only (CFN deploy) | Hard — cert expiry or replacement breaks HTTPS for the entire developer portal. |
+| Slack webhook (`rtCamp/action-slack-notify`) | Outbound webhook | Scheduled (on secret-scan failure only) | Soft — missed notification; no escalation. |
+| TruffleHog GH Action | GH Actions invocation | Scheduled (`0 14 * * 1-5`, weekdays 14:00 UTC) | Soft — scan failure produces a Slack ping; no auto-block. |
+| Google Fonts CDN (`fonts.googleapis.com` in `swagger-ui/index.html`) | sync HTTP from end-user browser | Per-request (page load) | Soft — degraded typography; no functional impact. |
+
+No retry logic, circuit breaker, or DLQ exists anywhere — the repo has no runtime code paths to instrument.
+
+### Architectural Notes
+- **Shared infrastructure**: This repo is one of ~22 AWS CloudFront-fronted S3 properties in the org (per the external-dependency table — alongside `analytics-ui`, `moderation-ui`, `ui-library`, `ui-library-hosted-collect`, `unsubscribe-ui`, the sibling docs pipelines, etc.) but is the only one still using a hand-rolled CloudFormation template in `infra/developer-cloudfront.yaml` rather than the shared `pwr-terraform-cloudfront` Terraform module that the rest of the modern frontends consume. Consolidating onto that module would inherit the modern TLS minimum and the standardized OAI/OAC pattern. The `infra/developer-cloudfront.yaml` template confirms the org-wide CloudFront-in-front-of-S3 pattern that EAPI infrastructure also relies on.
+- **Bounded-context overlaps**: The repo encodes the *external contract* for two domain concepts that have authoritative implementations elsewhere:
+  - **Reviews / Snippets / Q&A response shape** — `QueryResponse` and friends in `readservices.yaml` mirror types served by `readservices-b2c` (which itself reads from `denormalization-services` / Elasticsearch). Drift here is silent. The "Read Review Service" named in EAPI security diagrams is this same backend whose `readservices-b2c.powerreviews.com` spec this repo ships.
+  - **B2B review/question/answer submission shape** — `WriteAReviewB2BPostRequest`, `AnswerData`, `QuestionData`, `B2BReviewData`, `BaseReviewField«object»` etc. in `writeservices.yaml` mirror DTOs in `write-services` (Java), which in turn shares the `pwr-data-model` types with `core-data-services`, `moderation-services`, `ingestion-services`, and the rest of the UGC backbone. The endpoints `POST /api/b2b/answer`, `POST /api/b2b/question`, `POST /api/b2b/merchant-response`, `POST /api/b2b/writereview/submit_review` map directly to the EAPI b2b-api scope set (`reviews.write`, `questions.write`, etc.). No automated round-trip generation exists — these YAMLs are hand-maintained, and the upstream services have evolved heavily (12+ commits to `write-services` since this repo's last touch in 2020-09-25). The `writeservices-bak.yaml` file is evidence of manual snapshotting rather than spec generation.
+  - **XML feed schemas (`Content/review_data_complete v{1,2,3}.xsd`, `review_data_summary v{1,2,3}.xsd`)** — these describe the same bulk-export feed format that `core-data-content-exporter`, `outbound-syndication`, `content-publication`, and `distribution-services` actually produce. None of those services regenerate or validate against these XSDs; the contract is documentation, not enforcement. These describe PWR's *outbound* export format, not the inbound BazaarVoice ingest format (where no formal XSD enforcement exists and the Java implementation is canonical) — worth disambiguating in the repo to prevent reader confusion.
+- **Architectural evolution**: Git history shows two completed migrations and one stalled trajectory: (a) Jenkins → GitHub Actions for publishing (Sep 2019, IT-6169) and (b) direct-S3 → S3-behind-CloudFront (Nov 2019). Since then the repo has had **zero commits in 5.5 years** — the documented APIs have continued to evolve in `readservices-b2c` and `write-services` without corresponding spec updates, which is the single largest content risk on this repo. The base "Upgrade Alerts" focus on toolchain decay, but the more urgent issue is **spec/implementation drift**: any merchant integrating today against `developers.powerreviews.com` is reading 2020-era contracts. Re-anchoring requires either (1) generating Swagger from `write-services`/`readservices-b2c` at build time (modern Spring Boot springdoc-openapi pattern, already common in newer org services) and pushing the generated YAML here via CI, or (2) retiring this repo entirely and adopting the same Flare pipeline as `PWRDocumentation`/`Documentation-Output`.
+- **Future direction — EAPI publication gap**: The most-likely intended next evolution is publishing the EAPI (Enterprise API) authorization, account-management, and security documentation that currently lives only in Confluence/SharePoint behind SSO. Cognito client IDs are environment-stable and would need surfacing in any future spec — Dev `nc912e7e6qd1t8onh49saloms`, QA `28f8ig3apkos466jucpldq1b50`, Prod `4bh0rk1qtvr5dat9csgvjt1q7s`; secrets live in Cognito user pools `<env>-b2b-user-pool`. The EAPI scope catalog (SharePoint spreadsheet is canonical) includes `b2b-api/accounts.lambda` (admin only) plus `b2b-api/{reviews,questions,answers,products,orders,moderation,syndicated}.{read,write,delete}` and `b2b-api/admin` — none of which are currently surfaced in `writeservices.yaml`.
+- **Holiday-readiness context**: The Readservices backend behind this repo's published spec is scaled to 20 tasks for Black Friday/Cyber Monday — context for the runtime SLOs that the documented contract is implicitly committing to.
+- **Stale-spec amplification risk**: An active backend terminology shift is underway from "merchant group/merchant" to "client/catalog". `writeservices.yaml` still exposes `merchant_group_id`, `merchant_id`, `merchant_user_id`, etc. to external integrators — i.e., the public contract is now lexically out of sync with internal nomenclature in addition to being technically stale.
 
 ## API Reference
 
@@ -166,7 +194,7 @@ Not applicable — no database. The repo does ship XML feed schemas in `Content/
 
 ### Auth & trust boundaries
 - **Inbound to the docs site**: anonymous — content is public, served via CloudFront with `ViewerProtocolPolicy: redirect-to-https`, only `HEAD`/`GET` methods allowed; no auth on any path.
-- **Inbound to the documented APIs (not this repo's runtime)**: per the specs, `apikey` query parameter; 401/403 responses are documented for failure.
+- **Inbound to the documented APIs (not this repo's runtime)**: per the specs, `apikey` query parameter; 401/403 responses are documented for failure. Note that the EAPI Gateway model — in which API Gateway is the sole token verifier and downstream Java services (Read Services, Write Services) do not validate tokens themselves — is the modern path documented in Confluence, while the public spec in this repo still describes the legacy direct-call/apikey model. Both arguably co-exist but only one is documented here.
 - **Outbound (deploy path)**: GH Actions authenticates to AWS via static `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` repo secrets (not OIDC). S3 → CloudFront uses an Origin Access Identity (`E1NTYBWDUDNWIV`).
 - **Authorization model**: none on the docs themselves (public read). The S3 deploy uses `--acl public-read` (in `deploy.sh`); GH Actions deploy omits `--acl` but relies on bucket policy.
 
@@ -183,6 +211,15 @@ No other datastores (no DB, no cache, no DynamoDB / Postgres / Redis).
 - **Environments**: Single environment — production at `developers.powerreviews.com`. No staging/dev environment defined in repo.
 - **Regions**: ACM cert in `us-east-1`; CloudFront is global; bucket region not specified in the template (default us-east-1 implied).
 
+## Documentation Discrepancies
+| Confluence States | Code Shows | Likely Reason |
+|------------------|-----------|---------------|
+| EAPI is the canonical B2B/Enterprise API surface, with OAuth2 client_credentials, Cognito client IDs, and scopes like `b2b-api/reviews.read`, `b2b-api/orders.write`, etc., across `b2b-api.powerreviews.com` and `enterprise-api.powerreviews.com`. | `api-specs/` contains only `readservices.yaml` (host `readservices-b2c.powerreviews.com`, `apikey` query-parameter auth) and `writeservices.yaml` (host `writeservices.powerreviews.com`, `apikey` query parameter). No EAPI spec, no OAuth/Cognito flow, no `b2b-api.powerreviews.com` host, no scope/JWT documentation. The nav was renamed to "Enterprise API" in 2020 (`cdbd09e`) but no EAPI spec was ever added. | Scope changed / not yet built — the nav-rename commit pre-dates the documented EAPI authorization, account-management, and security pages. EAPI documentation lives in Confluence/SharePoint instead of being published to `developers.powerreviews.com`. |
+| EAPI `GET reviews` endpoint accepts `include_filter_effective_dates`, `created_date`, `updated_date`, `pwr_publication_status`, `include_merchant_responses`, `include_media`, `include_syndication`, `user_id`, `disclosure_inline`, `legacy_id`, etc. (per the get_reviews.py CLI). | `readservices.yaml` documents `GET /m/{merchantId}/reviews` but with no equivalent OAuth/EAPI parameter set, and `writeservices.yaml` documents no GET-reviews endpoint at all. The EAPI's GET reviews surface is undocumented in this repo. | Migrated to another repo / scope changed — the EAPI surface is implemented but its public reference lives outside this repo (Confluence + the `pwr-scripts/eapi-tools` README). |
+| EAPI `GET reviews` has a confirmed bug where `include_filter_effective_dates` does not affect the response and `created_date` / `updated_date` truncate to day precision (PWRE-2818). | No erratum, "known limitations", or update is present in `api-specs/` or `Content/`. The repo has had **zero commits in 5.5 years** (last meaningful change 2020-09-25). | Outdated doc — the bug was discovered after the docs site stopped being updated; merchants reading `developers.powerreviews.com` have no indication. |
+| API Gateway is the sole token verifier; downstream Java services (Read Services, Write Services) do not validate tokens themselves. | `readservices.yaml` and `writeservices.yaml` document `apikey` query parameter as the auth scheme — i.e., they advertise direct service-level auth to external integrators, not a Gateway-fronted token. | Renamed/refactored — the public spec still describes the legacy direct-call/apikey model while the EAPI Gateway model is the modern path; both arguably co-exist but only one is documented here. |
+| BazaarVoice XML schema has no XSD, and the Java implementation is the canonical definition. | The repo ships three versioned XSDs (`review_data_complete v{1,2,3}.xsd`, `review_data_summary v{1,2,3}.xsd`) — but these describe PWR's outbound bulk-export feed, not the inbound BV ingest format. | Different scope — the XSDs are not in conflict; they document a different feed than the one the Confluence page is discussing. Worth disambiguating in the repo to prevent reader confusion. |
+
 ## Repo Activity
 Derived from git history; current HEAD is `c0f2112`.
 - **Created**: 2017-09-17 (`ae903ac` "Initial Files").
@@ -190,70 +227,3 @@ Derived from git history; current HEAD is `c0f2112`.
 - **Activity level**: 0 commits in the last 90 days. The repo has had 0 commits since 2020-09-25 — it has been effectively dormant for ~5.5 years as of 2026-05-11.
 - **Hot spots**: Over the last 6 months: none — no commits. Looking back 6 months before the last commit (2020-03-25 → 2020-09-25) the most-touched files were `Sitemap.xml`, `Resources/Scripts/require.config.js`, and the MadCap regeneration artifacts (`HTML5 - Top Navigation.mclog`, `Default.mcwebhelp`, `Data/HelpSystem.xml`, `Data/HelpSystem.js`) — all churned by re-publishing the Flare output rather than by source changes.
 - **Recent major changes**: _No major changes in the last 6 months._ Historically: migration from a Jenkins publishing job to GitHub Actions (Sep 2019, IT-6169), CloudFront introduction (Nov 2019, IT cf), addition of scheduled TruffleHog secret-scan workflow (Jul 2020), SSL certificate swap (Mar 2020).
-
----
-
-## Revised Summary
-_Revised on 2026-05-12 against commit 33a8d3e_
-
-### Overview
-`api-documentation` is the static publishing artifact for `developers.powerreviews.com` — the public OpenAPI/Swagger reference and MadCap Flare help center for PowerReviews' two customer-facing integration surfaces: the **Read Services B2C display API** (consumer storefront read path) and the **Write Services** UGC submission API (B2B review/Q&A/answer/merchant-response writes). It is a content-only repo owned by Technical Writing / Developer Experience, with no compute and no runtime dependencies — its only operational role is to be `aws s3 sync`'d to the `developers.powerreviews.com` S3 bucket on every push to `master`. Among the ~12 MadCap Flare / static doc repos in the org (`PWRDocumentation`, `Documentation-Output`, `PWRInternalDocs`, `InternalDocumentation-Output`, etc.), this is the only one that documents externally-callable customer APIs rather than internal help content.
-
-### Tech Stack
-| Category | Technology | Version |
-|----------|-----------|---------|
-| Language | HTML / JavaScript (static, no build) | _N/A_ |
-| Framework | Swagger UI (vendored bundle) | unpinned, ~2020-era 3.x dist |
-| Framework | MadCap Flare WebHelp (HTML5 Top Navigation skin) | build 13.3.6547.24746 (2020-09-25) |
-| API Spec | OpenAPI / Swagger | 2.0 |
-| Build Tool | `aws s3 sync` (GH Actions) / legacy `deploy.sh` | _N/A_ |
-| CI/CD | GitHub Actions | `actions/checkout@master` (mutable) |
-| Cloud/Infra | AWS S3 + CloudFront + ACM (CloudFormation in `infra/`) | TLS minimum `TLSv1` |
-
-### Consumers
-| Consumer | Type | How They Use It |
-|----------|------|----------------|
-| `developers.powerreviews.com` (CloudFront → S3) | Cloud Service | Hosts the rendered repo contents as the public developer portal. |
-| PowerReviews merchants / integrators | External humans | Read API specs and integration guides. |
-| GitHub Actions runner | CI System | Performs the deploy on push to `master`. |
-| Slack channel `github-token-scan` | External alerting | TruffleHog secret-scan failures via `rtCamp/action-slack-notify`. |
-
-### Dependencies on Org Repos
-| Repo | Reason |
-|------|--------|
-| `readservices-b2c` | `api-specs/readservices.yaml` is the authoritative public contract for this Java/Spring backend (`host: readservices-b2c.powerreviews.com`); any path/param/response change there must be re-published here. |
-| `write-services` | `api-specs/writeservices.yaml` (+ `writeservices-bak.yaml`) and the `write-services/` landing page are the authoritative public contract for the Java write-path service (`host: writeservices.powerreviews.com`). |
-| `PWRDocumentation` / `Documentation-Output` | Sibling MadCap Flare doc pipeline for the customer help center (`help.powerreviews.com`). This repo is the developer counterpart — separate Flare project, separate S3 bucket, but shares the toolchain choice (and its staleness). |
-
-Note: the org-summary dependency map lists only `readservices-b2c` and `write-services` for this repo, which matches the code. No other org repo writes to `s3://developers.powerreviews.com` based on the IaC and external-footprint table.
-
-### Upgrade Alerts
-| Dependency | Current Version | Issue | Severity |
-|-----------|----------------|-------|----------|
-| Swagger UI (vendored under `swagger-ui/`) | Unpinned 3.x-era dist, last touched 2020 | Pre-4.x Swagger UI has documented XSS-class CVEs (e.g., CVE-2019-17495); the rendered site is public and serves an attacker-controllable spec URL pattern. | Critical |
-| `actions/checkout@master` (both workflows) | Mutable `@master` ref | `actions/checkout` no longer maintains a `master` branch on current majors; mutable refs are a supply-chain risk and may silently break the deploy. | Severe |
-| `edplato/trufflehog-actions-scan@master` | Unmaintained third-party action pinned to `@master` | Action is effectively abandoned; org-wide this same action is in use across 70+ repos (see external-dependency table) — concentrated supply-chain exposure. | Severe |
-| MadCap Flare WebHelp output (`jquery.min.js`, `modernizr`, generated JS) | 2020-09-25 generation, build 13.3.6547.24746 | 5+ year-old vendored JS shims with well-known CVE history; not patched on any cadence because the repo has zero commits since 2020. | Severe |
-| CloudFront `MinimumProtocolVersion` in `infra/developer-cloudfront.yaml` | `TLSv1` | AWS has deprecated TLS 1.0/1.1; should be at least `TLSv1.2_2021`. The sibling org CloudFront module `pwr-terraform-cloudfront` (used by 20+ repos) is the modern pattern this repo should adopt. | Severe |
-
-### Coupling Profile
-| Dependency | Protocol | Frequency Pattern | Failure Mode |
-|-----------|----------|-------------------|--------------|
-| `readservices-b2c` (org repo) | Documentation-only / spec file | Manual, batched (whenever an author updates `readservices.yaml`) | Soft — spec drift silently misleads integrators; runtime API is unaffected. |
-| `write-services` (org repo) | Documentation-only / spec file | Manual, batched | Soft — spec drift misleads integrators; runtime API is unaffected. |
-| AWS S3 (`developers.powerreviews.com`) | Object store via AWS CLI | Event-triggered (every push to `master`) | Hard — failed sync means the site doesn't update; no retry, no notification beyond GH Actions UI. |
-| AWS CloudFront | CDN in front of S3 origin | Per-request (viewer traffic), one-time provisioning via CFN | Soft — stale 600s TTL cache masks deploy failures briefly; no invalidation is issued by the deploy workflow. |
-| AWS ACM (us-east-1) | TLS certificate, referenced by CloudFront | Startup-only (CFN deploy) | Hard — cert expiry or replacement breaks HTTPS for the entire developer portal. |
-| Slack webhook (`rtCamp/action-slack-notify`) | Outbound webhook | Scheduled (on secret-scan failure only) | Soft — missed notification; no escalation. |
-| TruffleHog GH Action | GH Actions invocation | Scheduled (`0 14 * * 1-5`, weekdays 14:00 UTC) | Soft — scan failure produces a Slack ping; no auto-block. |
-| Google Fonts CDN (`fonts.googleapis.com` in `swagger-ui/index.html`) | sync HTTP from end-user browser | Per-request (page load) | Soft — degraded typography; no functional impact. |
-
-No retry logic, circuit breaker, or DLQ exists anywhere — the repo has no runtime code paths to instrument.
-
-### Architectural Notes
-- **Shared infrastructure**: This repo is one of ~22 AWS CloudFront-fronted S3 properties in the org (per the external-dependency table — alongside `analytics-ui`, `moderation-ui`, `ui-library`, `ui-library-hosted-collect`, `unsubscribe-ui`, the sibling docs pipelines, etc.) but is the only one still using a hand-rolled CloudFormation template in `infra/developer-cloudfront.yaml` rather than the shared `pwr-terraform-cloudfront` Terraform module that the rest of the modern frontends consume. Consolidating onto that module would inherit the modern TLS minimum and the standardized OAI/OAC pattern.
-- **Bounded-context overlaps**: The repo encodes the *external contract* for two domain concepts that have authoritative implementations elsewhere:
-  - **Reviews / Snippets / Q&A response shape** — `QueryResponse` and friends in `readservices.yaml` mirror types served by `readservices-b2c` (which itself reads from `denormalization-services` / Elasticsearch). Drift here is silent.
-  - **B2B review/question/answer submission shape** — `WriteAReviewB2BPostRequest`, `AnswerData`, `QuestionData`, `B2BReviewData`, `BaseReviewField«object»` etc. in `writeservices.yaml` mirror DTOs in `write-services` (Java), which in turn shares the `pwr-data-model` types with `core-data-services`, `moderation-services`, `ingestion-services`, and the rest of the UGC backbone. No automated round-trip generation exists — these YAMLs are hand-maintained, and the upstream services have evolved heavily (12+ commits to `write-services` since this repo's last touch in 2020-09-25). The `writeservices-bak.yaml` file is evidence of manual snapshotting rather than spec generation.
-  - **XML feed schemas (`Content/review_data_complete v{1,2,3}.xsd`, `review_data_summary v{1,2,3}.xsd`)** — these describe the same bulk-export feed format that `core-data-content-exporter`, `outbound-syndication`, `content-publication`, and `distribution-services` actually produce. None of those services regenerate or validate against these XSDs; the contract is documentation, not enforcement.
-- **Architectural evolution**: Git history shows two completed migrations and one stalled trajectory: (a) Jenkins → GitHub Actions for publishing (Sep 2019, IT-6169) and (b) direct-S3 → S3-behind-CloudFront (Nov 2019). Since then the repo has had **zero commits in 5.5 years** — the documented APIs have continued to evolve in `readservices-b2c` and `write-services` without corresponding spec updates, which is the single largest content risk on this repo. The base "Upgrade Alerts" focus on toolchain decay, but the more urgent issue is **spec/implementation drift**: any merchant integrating today against `developers.powerreviews.com` is reading 2020-era contracts. Re-anchoring requires either (1) generating Swagger from `write-services`/`readservices-b2c` at build time (modern Spring Boot springdoc-openapi pattern, already common in newer org services) and pushing the generated YAML here via CI, or (2) retiring this repo entirely and adopting the same Flare pipeline as `PWRDocumentation`/`Documentation-Output`.
